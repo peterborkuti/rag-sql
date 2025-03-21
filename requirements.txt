@@ -1,0 +1,5 @@
+pip
+langchain-community
+langchainhub
+langgraph
+oracledb

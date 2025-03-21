@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Search</title>
+    <style>
+        body { 
+            font-family: sans-serif; 
+            margin: 20px; 
+        }
+        .result {
+            border-top: 1px solid #ccc;
+            margin-top: 10px;
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Document Search</h1>
+    <p>Ask a question about the document:</p>
+    
+    <div>
+        <input type="text" id="queryInput" style="width: 80%;">
+        <button onclick="search()">Search</button>
+    </div>
+    
+    <div id="loading" style="display:none;">Searching...</div>
+    <div id="results"></div>
+    
+    <script>
+        function search() {
+            var query = document.getElementById('queryInput').value.trim();
+            var resultsDiv = document.getElementById('results');
+            var loadingDiv = document.getElementById('loading');
+            
+            if (!query) {
+                resultsDiv.innerHTML = '<p>Please enter a query</p>';
+                return;
+            }
+            
+            loadingDiv.style.display = 'block';
+            resultsDiv.innerHTML = '';
+            
+            fetch('/api/query', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ query: query })
+            })
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(data) {
+                loadingDiv.style.display = 'none';
+                
+                if (data.error) {
+                    resultsDiv.innerHTML = '<p>' + data.error + '</p>';
+                    return;
+                }
+                
+                var html = '<h2>Results for: "' + data.query + '"</h2>';
+                
+                if (data.results && data.results.length > 0) {
+                    for (var i = 0; i < data.results.length; i++) {
+                        var result = data.results[i];
+                        html += '<div class="result">';
+                        html += '<h3>Result ' + (i + 1) + ' - Score: ' + result.score.toFixed(4) + '</h3>';
+                        html += '<p>' + result.content + '</p>';
+                        html += '</div>';
+                    }
+                } else {
+                    html += '<p>No results found</p>';
+                }
+                
+                resultsDiv.innerHTML = html;
+            })
+            .catch(function(error) {
+                loadingDiv.style.display = 'none';
+                resultsDiv.innerHTML = '<p>Error: ' + error.message + '</p>';
+            });
+        }
+        
+        document.getElementById('queryInput').addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                search();
+            }
+        });
+    </script>
+</body>
+</html>

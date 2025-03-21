@@ -1,0 +1,671 @@
+"ID"	"ANSWER"	"TYPE"	"QUESTION_ID"	"ROW_QUESTION"	"COLUMN_QUESTION_ID"	"COL_ID"	"ROW_ID"	"DATETIME"	"RESPONDENT"	"SECRET"	"ADDR_RFI_DATA_ID"	"TABLE_QUESTION"	"CASE_REFERENCE"	"ADDRESSEE_QUESTION_ID"
+34495	"Worldwide"	"CHOICE"	33453	"Microsoft"	33476	33475	33534	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34497	"Worldwide"	"CHOICE"	33453	"Facebook"	33476	33475	33537	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34499	"National"	"CHOICE"	33453	"Yahoo"	33476	33475	33540	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34503	"2"	"RATING"	33453	"Amazon"	33501	33500	33531	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34505	"3"	"RATING"	33453	"Microsoft"	33501	33500	33534	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34507	"4"	"RATING"	33453	"Facebook"	33501	33500	33537	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34511	"1"	"CURRENCY"	33453	"Google"	33521	33520	33528	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34513	"11"	"CURRENCY"	33453	"Amazon"	33521	33520	33531	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34515	"111"	"CURRENCY"	33453	"Microsoft"	33521	33520	33534	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34517	"1"	"CURRENCY"	33453	"Facebook"	33521	33520	33537	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+33973	"<p>OK</p>"	"SIMPLE_TEXT"	33036	""				13-NOV-24 03.13.58.339000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33036
+	""	""	37288	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37288
+	""	""	37297	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37297
+37713	"<p><strong>My fifth question, mandatory. No min or max length</strong></p>"	"SIMPLE_TEXT"	37042	""				20-NOV-24 01.49.19.828000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37042
+	""	""	37279	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37279
+37844	"111"	"NUMBER"	37270	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37270
+37845	"test@test.test"	"EMAIL"	37306	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37306
+	""	""	37309	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37309
+37846	"01:00"	"TIME"	37333	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37333
+	""	""	37318	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37318
+	""	""	37324	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37324
+	""	""	37342	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37342
+37847	"3"	"RATING"	37339	""				20-NOV-24 01.51.05.862000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37339
+	""	""	37030	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37030
+37933	"<p><strong>My fifth question, mandatory. No min or max length</strong></p>"	"SIMPLE_TEXT"	37042	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37042
+	""	""	37048	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37048
+	""	""	38028	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38028
+37931	"Another Option|It's so cool to do test questionnaires|Option 2.4"	"CHOICE"	37153	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37153
+	""	""	37279	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37279
+	""	""	37288	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37288
+	""	""	37297	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37297
+37934	"111"	"NUMBER"	37270	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37270
+37935	"test@test.test"	"EMAIL"	37306	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37306
+	""	""	37309	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37309
+37936	"00:01"	"TIME"	37333	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37333
+	""	""	37318	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37318
+	""	""	37324	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37324
+	""	""	37342	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37342
+37937	"3"	"RATING"	37339	""				20-NOV-24 01.52.41.769000000 PM	"Collab"	0	37574	0	"M.8871"	37339
+	""	""	38019	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38019
+	""	""	38118	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38118
+	""	""	38121	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38121
+	""	""	38124	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38124
+	""	""	38133	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38133
+	""	""	38139	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38139
+	""	""	38142	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38142
+	""	""	38154	""				20-NOV-24 02.02.37.512000000 PM	"OutlookACC"	0	38181	0	"DMA.400213"	38154
+	""	""	38118	""				21-NOV-24 12.10.08.151000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38118
+	""	""	38121	""				21-NOV-24 12.10.08.151000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38121
+	""	""	38124	""				21-NOV-24 12.10.08.151000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38124
+	""	""	38133	""				21-NOV-24 12.10.08.151000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38133
+	""	""	38139	""				21-NOV-24 12.10.08.151000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38139
+	""	""	38142	""				21-NOV-24 12.10.08.151000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38142
+	""	""	38154	""				21-NOV-24 12.10.08.151000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38154
+	""	""	38028	""				22-NOV-24 08.31.06.601000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38028
+	""	""	38118	""				22-NOV-24 08.37.12.007000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38118
+	""	""	38121	""				22-NOV-24 08.37.12.007000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38121
+	""	""	38124	""				22-NOV-24 08.37.12.007000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38124
+	""	""	38133	""				22-NOV-24 08.37.12.007000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38133
+	""	""	38139	""				22-NOV-24 08.37.12.007000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38139
+	""	""	38142	""				22-NOV-24 08.37.12.007000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38142
+	""	""	38154	""				22-NOV-24 08.37.12.007000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38154
+33970	"<p><confidential-highlight-start name=""55055f65-0947-464f-8197-0404d9136de5""></confidential-highlight-start><span class=""confidential-highlight"">FIrst section</span><confidential-highlight-end name=""55055f65-0947-464f-8197-0404d9136de5""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	33027	""				13-NOV-24 03.13.58.339000000 PM	"OutlookACC"	1	33558	0	"DMA.400213"	33027
+34222	"Option 1"	"CHOICE"	33066	""				13-NOV-24 03.18.55.696000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33066
+33966	"Option 1|It's so cool to do test questionnaires|Option 2.4"	"CHOICE"	33147	""				13-NOV-24 03.21.04.229000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33147
+	""	""	38028	""				20-NOV-24 01.59.01.920000000 PM	"Collab"	0	38178	0	"DMA.400213"	38028
+50142	"2"	"RATING"	37339	""				03-DEC-24 04.46.37.227000000 PM	"DG COMP"	0	50057	0	"M.8871"	37339
+	""	""	37048	""				21-NOV-24 12.04.17.951000000 PM	"OutlookACC"	0	39829	0	"M.8871"	37048
+	""	""	38019	""				21-NOV-24 12.04.38.093000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38019
+50135	"4"	"RATING"	37342	""				03-DEC-24 04.46.37.227000000 PM	"DG COMP"	0	50057	0	"M.8871"	37342
+	""	""	37030	""				21-NOV-24 12.09.16.641000000 PM	"OutlookACC"	0	39829	0	"M.8871"	37030
+	""	""	38019	""				22-NOV-24 08.30.02.793000000 AM	"OutlookACC"	0	41020	0	"DMA.400213"	38019
+50370	"<p><confidential-highlight-start name=""33c0e2f2-a5b2-4388-b2f6-75873029aadd""></confidential-highlight-start><span class=""confidential-highlight"">To claim confidentiality select the relevant text in your answer and click on 'claim confidentiality' button in the toolbar. You can make multiple selections and associate them with different confidentiality claims.</span><confidential-highlight-end name=""33c0e2f2-a5b2-4388-b2f6-75873029aadd""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	50252	""				03-DEC-24 05.12.32.182000000 PM	"DG COMP"	1	50331	0	"AT.401086"	50252
+50365	"Other(To claim confidentiality select the relevant text in your answer and click on 'claim confidentiality' button in the toolbar. You can make multiple selections and associate them with different confidentiality claims.)"	"CHOICE"	50255	""				03-DEC-24 05.12.32.182000000 PM	"DG COMP"	1	50331	0	"AT.401086"	50255
+47227	"yes|Other(test)"	"CHOICE"	46280	""				03-DEC-24 11.21.21.477000000 AM	"DG COMP"	0	47202	0	"M.8871"	46280
+49544	"<p>okaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>"	"SIMPLE_TEXT"	46277	""				03-DEC-24 11.21.21.477000000 AM	"DG COMP"	0	47202	0	"M.8871"	46277
+50364	"<p><confidential-highlight-start name=""952ada2f-a598-47c7-b97c-274773a0f2ce""></confidential-highlight-start><span class=""confidential-highlight"">To claim confidentiality select the relevant text in your answer and click on 'claim confidentiality' button in the toolbar. You can make multiple selections and associate them with different confidentiality claims.</span><confidential-highlight-end name=""952ada2f-a598-47c7-b97c-274773a0f2ce""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	50249	""				03-DEC-24 05.12.32.182000000 PM	"DG COMP"	1	50331	0	"AT.401086"	50249
+56056	"4"	"RATING"	54265	""				12-DEC-24 01.46.30.744000000 PM	"DG COMP"	0	54280	0	"AT.401086"	54265
+56055	"no"	"CHOICE"	54256	""				12-DEC-24 01.46.30.744000000 PM	"DG COMP"	0	54280	0	"AT.401086"	54256
+57480	"Other(otherpleaseexplain)"	"CHOICE"	50255	""				12-DEC-24 01.55.46.579000000 PM	"DG COMP"	1	57418	0	"AT.401086"	50255
+57473	"<p><confidential-highlight-start name=""04420cd2-c241-4d79-99e5-cfeb010455c9""></confidential-highlight-start><span class=""confidential-highlight"">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</span><confidential-highlight-end name=""04420cd2-c241-4d79-99e5-cfeb010455c9""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	50249	""				12-DEC-24 01.55.46.579000000 PM	"DG COMP"	1	57418	0	"AT.401086"	50249
+63616	"<p>this is the</p>"	"SIMPLE_TEXT"	60376	""				02-JAN-25 05.43.17.299000000 PM	"Darius TEST"	0	60959	0	"AT.49123"	60376
+61107	"4"	"RATING"	60252	""				02-JAN-25 05.43.17.299000000 PM	"Darius TEST"	1	60959	0	"AT.49123"	60252
+61113	"6"	"NUMBER"	60906	""				02-JAN-25 05.43.17.299000000 PM	"Darius TEST"	1	60959	0	"AT.49123"	60906
+64266	"5"	"RATING"	63984	"Product 2"	64010	64011	63990	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	63984
+	""	""	33024	""				13-NOV-24 03.13.58.339000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33024
+	""	""	33030	""				13-NOV-24 03.13.58.339000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33030
+	""	""	33033	""				13-NOV-24 03.13.58.339000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33033
+64268	"4"	"RATING"	63984	"Product 3"	64010	64011	64014	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	63984
+34089	"no"	"CHOICE"	34019	""				13-NOV-24 03.14.33.208000000 PM	"OutlookACC"	0	34044	0	"AT.40882"	34019
+	""	""	34028	""				13-NOV-24 03.14.33.208000000 PM	"OutlookACC"	0	34044	0	"AT.40882"	34028
+	""	""	37048	""				20-NOV-24 01.48.04.378000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37048
+64271	"<p>My answer</p>"	"SIMPLE_TEXT"	63984	"Product 1"	63993	63994	63987	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	63984
+	""	""	37030	""				20-NOV-24 01.49.19.828000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37030
+	""	""	38118	""				20-NOV-24 02.01.06.949000000 PM	"Collab"	0	38178	0	"DMA.400213"	38118
+	""	""	38121	""				20-NOV-24 02.01.06.949000000 PM	"Collab"	0	38178	0	"DMA.400213"	38121
+	""	""	38124	""				20-NOV-24 02.01.06.949000000 PM	"Collab"	0	38178	0	"DMA.400213"	38124
+	""	""	38133	""				20-NOV-24 02.01.06.949000000 PM	"Collab"	0	38178	0	"DMA.400213"	38133
+	""	""	38139	""				20-NOV-24 02.01.06.949000000 PM	"Collab"	0	38178	0	"DMA.400213"	38139
+	""	""	38142	""				20-NOV-24 02.01.06.949000000 PM	"Collab"	0	38178	0	"DMA.400213"	38142
+	""	""	38154	""				20-NOV-24 02.01.06.949000000 PM	"Collab"	0	38178	0	"DMA.400213"	38154
+41578	"no"	"CHOICE"	41486	""				22-NOV-24 02.04.34.747000000 PM	"DG COMP"	0	41551	0	"DMA.400213"	41486
+64275	"<p>Another answer</p>"	"SIMPLE_TEXT"	63984	"Product 3"	63993	63994	64014	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	63984
+64282	""	"SIMPLE_TEXT"	64021	"Market 4"	64030	64031	64277	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	64161
+41586	"<p><strong>Please explain your answer</strong></p>"	"SIMPLE_TEXT"	41518	""				22-NOV-24 02.04.34.747000000 PM	"DG COMP"	0	41551	0	"DMA.400213"	41518
+64286	""	"SIMPLE_TEXT"	64021	"Market 5"	64030	64031	64283	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	64161
+64259	"2"	"CHOICE"	63984	"Product 1"	63995	63996	63987	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	1	"AT.49123"	63984
+41583	"yes"	"CHOICE"	41527	""				22-NOV-24 02.04.34.747000000 PM	"DG COMP"	0	41551	0	"DMA.400213"	41527
+64232	"<p>Answer to this question ....<confidential-highlight-start name=""ca607e18-75e6-4904-ba78-4886092be07d""></confidential-highlight-start><span class=""confidential-highlight""> Answer to this question</span><confidential-highlight-end name=""ca607e18-75e6-4904-ba78-4886092be07d""></confidential-highlight-end>Answer <confidential-highlight-start name=""83cb5ee4-8f8e-4349-b176-4ec2a744669c""></confidential-highlight-start><span class=""confidential-highlight"">to this questionAnswer to this questionAnswer to this questionAnswer to this questionAnswer to this questionAnswer to this questionAnswer to this questionAnswer to this question</span><confidential-highlight-end name=""83cb5ee4-8f8e-4349-b176-4ec2a744669c""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	63870	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	0	"AT.49123"	63870
+64237	"<p>Text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text&nbsp;</p>"	"SIMPLE_TEXT"	63873	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63873
+64238	"1"	"CHOICE"	63879	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	0	"AT.49123"	63879
+64241	"<p>Here is the answer&nbsp;</p>"	"SIMPLE_TEXT"	63900	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63900
+64242	"3"	"RATING"	63903	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	0	"AT.49123"	63903
+64230	"A|None"	"CHOICE"	63906	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63906
+64231	"3|4"	"CHOICE"	63930	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63930
+64247	"3222"	"CURRENCY"	63954	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63954
+64246	"33"	"PERCENTAGE"	63951	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63951
+64244	"123"	"NUMBER"	63948	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	0	"AT.49123"	63948
+64250	"5"	"RATING"	63963	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63963
+64251	"<p>explanation of the <confidential-highlight-start name=""cd632e96-523e-4bd9-872a-42d3ec43afb9""></confidential-highlight-start><span class=""confidential-highlight"">above answer</span><confidential-highlight-end name=""cd632e96-523e-4bd9-872a-42d3ec43afb9""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	63969	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	0	"AT.49123"	63969
+64260	"3"	"CHOICE"	63984	"Product 2"	63995	63996	63990	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	1	"AT.49123"	63984
+64262	"2"	"CHOICE"	63984	"Product 3"	63995	63996	64014	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	1	"AT.49123"	63984
+64264	"3"	"RATING"	63984	"Product 1"	64010	64011	63987	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	63984
+64273	"<p>My answer</p>"	"SIMPLE_TEXT"	63984	"Product 2"	63993	63994	63990	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	63984
+64290	"20/01/2025 00:00"	"DATETIME"	64021	"Market 2"	64034	64035	64027	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	64161
+64292	"28/01/2025 00:00"	"DATETIME"	64021	"Market 4"	64034	64035	64277	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	64161
+64294	"2"	"CHOICE"	64021	"Market 4"	64032	64033	64277	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	1	"AT.49123"	64161
+64296	"1|3"	"CHOICE"	64021	"Market 5"	64032	64033	64283	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	1	"AT.49123"	64161
+	""	""	38019	""				20-NOV-24 01.57.57.027000000 PM	"Collab"	0	38178	0	"DMA.400213"	38019
+	""	""	38028	""				21-NOV-24 12.08.26.338000000 PM	"OutlookACC"	0	39889	0	"DMA.400213"	38028
+33969	"Take this also!"	"CHOICE"	33228	""				13-NOV-24 03.21.04.229000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33228
+34364	"111"	"PERCENTAGE"	33285	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33285
+34357	"111"	"NUMBER"	33264	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33264
+34363	"111"	"CURRENCY"	33276	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33276
+34365	"11"	"PERCENTAGE"	33288	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33288
+34358	"111"	"NUMBER"	33270	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33270
+34367	"111"	"CURRENCY"	33279	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33279
+34366	"11111111111111"	"PHONE"	33294	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33294
+64300	"1"	"CHOICE"	64021	"Market 3"	64032	64033	64051	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	1	"AT.49123"	64161
+64306	"<p>Answer&nbsp;</p>"	"SIMPLE_TEXT"	64021	"Market 6"	64030	64031	64303	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	64161
+64288	"07/01/2025 00:00"	"DATETIME"	64021	"Market 1"	64034	64035	64024	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	1	"AT.49123"	64161
+64298	"2"	"CHOICE"	64021	"Market 1"	64032	64033	64024	03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	1	"AT.49123"	64161
+64248	"45455555555555"	"PHONE"	63960	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	0	"AT.49123"	63960
+64253	"08/01/2025"	"DATE"	63972	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63972
+64254	"03:20"	"TIME"	63975	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	1	64087	0	"AT.49123"	63975
+64256	"<p>Explanation</p>"	"SIMPLE_TEXT"	63978	""				03-JAN-25 11.27.23.335000000 AM	"Darius TEST"	0	64087	0	"AT.49123"	63978
+64326	"<p>Right there</p>"	"SIMPLE_TEXT"	63870	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63870
+64324	"B|D|Other(F)"	"CHOICE"	63906	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63906
+64332	"<p>Ans<confidential-highlight-start name=""c45f0998-8218-4208-8d63-836456cc74ae""></confidential-highlight-start><span class=""confidential-highlight"">wer to thi</span><confidential-highlight-end name=""c45f0998-8218-4208-8d63-836456cc74ae""></confidential-highlight-end>s</p>"	"SIMPLE_TEXT"	63927	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	0	"AT.49123"	63927
+64325	"1|2|3|4|5"	"CHOICE"	63930	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63930
+64329	"4"	"RATING"	63903	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	0	"AT.49123"	63903
+64328	"<p>I really don't kno hat to answer.</p>"	"SIMPLE_TEXT"	63900	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63900
+64327	"1"	"CHOICE"	63879	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63879
+64334	"22"	"PERCENTAGE"	63951	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63951
+64335	"12"	"CURRENCY"	63954	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	0	"AT.49123"	63954
+64338	"10"	"RATING"	63963	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63963
+64348	"1"	"CHOICE"	63984	"Product 2"	63995	63996	63990	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	63984
+64351	"5"	"RATING"	63984	"Product 1"	64010	64011	63987	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	63984
+64354	"44"	"NUMBER"	63984	"Product 1"	64017	64018	63987	03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	1	"AT.49123"	63984
+64387	"2"	"CHOICE"	64021	"Maret 88"	64032	64033	64382	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64389	"1"	"CHOICE"	63984	"Product 1"	63995	63996	63987	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	63984
+64349	"2"	"RATING"	63984	"Product 2"	64010	64011	63990	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	63984
+64356	"34"	"NUMBER"	63984	"Product 2"	64017	64018	63990	03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	1	"AT.49123"	63984
+64360	"<p>My answer</p>"	"SIMPLE_TEXT"	63984	"Product 2"	63993	63994	63990	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	63984
+64365	"<p>cvfg</p>"	"SIMPLE_TEXT"	64021	"Market 2"	64030	64031	64027	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64370	"2"	"CHOICE"	64021	"Market 2"	64032	64033	64027	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64372	"1|3"	"CHOICE"	64021	"Market 3"	64032	64033	64051	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64374	"1|2|3"	"CHOICE"	64021	"Market 1"	64032	64033	64024	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64380	"25/01/2025 23:00"	"DATETIME"	64021	"Market 3"	64034	64035	64051	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64385	"<p>lhlib piulijlibl</p>"	"SIMPLE_TEXT"	64021	"Maret 88"	64030	64031	64382	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64358	"1"	"NUMBER"	63984	"Product 3"	64017	64018	64014	03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	1	"AT.49123"	63984
+64364	"<p>erty</p>"	"SIMPLE_TEXT"	64021	"Market 1"	64030	64031	64024	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64367	"<p>f<confidential-highlight-start name=""6d9a83ba-0062-4d74-ba93-f4d3e3b46496""></confidential-highlight-start><span class=""confidential-highlight"">fghgh bhh</span><confidential-highlight-end name=""6d9a83ba-0062-4d74-ba93-f4d3e3b46496""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	64021	"Market 3"	64030	64031	64051	03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	1	"AT.49123"	64164
+64376	"28/01/2025 15:00"	"DATETIME"	64021	"Market 1"	64034	64035	64024	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64378	"22/01/2025 23:00"	"DATETIME"	64021	"Market 2"	64034	64035	64027	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	64164
+64391	"2"	"CHOICE"	63984	"Product 3"	63995	63996	64014	03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	1	"AT.49123"	63984
+64337	"darius_cip@yahoo.com"	"EMAIL"	63957	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	1	64090	0	"AT.49123"	63957
+	""	""	33042	""				13-NOV-24 03.18.55.696000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33042
+	""	""	33093	""				13-NOV-24 03.18.55.696000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33093
+43556	"<p><confidential-highlight-start name=""0e7661d9-c67c-4d42-8975-db3422d9489b""></confidential-highlight-start><span class=""confidential-highlight"">Napište až 30000 znaků</span><confidential-highlight-end name=""0e7661d9-c67c-4d42-8975-db3422d9489b""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	43123	""				26-NOV-24 02.10.40.769000000 PM	"OutlookACC"	1	43153	0	"AT.40785"	43123
+46363	"yes"	"CHOICE"	46280	""				28-NOV-24 02.50.29.020000000 PM	"DG COMP"	0	46318	0	"M.8871"	46280
+46393	"<p><confidential-highlight-start name=""e1cc508f-43e1-47b0-9b96-685eb39d7178""></confidential-highlight-start><span class=""confidential-highlight"">CZ</span><confidential-highlight-end name=""e1cc508f-43e1-47b0-9b96-685eb39d7178""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	46277	""				28-NOV-24 02.50.29.020000000 PM	"DG COMP"	1	46318	0	"M.8871"	46277
+37650	"Another Option|Option 2.4|My favorite option"	"CHOICE"	37153	""				20-NOV-24 01.50.06.683000000 PM	"OutlookACC"	0	37571	0	"M.8871"	37153
+	""	""	33261	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33261
+	""	""	33267	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33267
+	""	""	33273	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33273
+	""	""	33282	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33282
+	""	""	33291	""				13-NOV-24 03.26.08.073000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33291
+34428	"test@test.test"	"EMAIL"	33300	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33300
+	""	""	33303	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33303
+	""	""	33306	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33306
+	""	""	33312	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33312
+	""	""	33318	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33318
+	""	""	33324	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33324
+34430	"01:01"	"TIME"	33315	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33315
+34431	"13/02/2020 00:00"	"DATETIME"	33321	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33321
+34432	"01:01"	"TIME"	33327	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33327
+34433	"3"	"RATING"	33333	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33333
+34436	"4"	"RATING"	33342	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33342
+	""	""	33336	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33336
+	""	""	33339	""				13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	0	"DMA.400213"	33339
+34439	"Worldwide"	"CHOICE"	33348	" Ford"	33371	33370	33423	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34452	"Worldwide"	"CHOICE"	33348	" Volga"	33371	33370	33441	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34454	"National"	"CHOICE"	33348	" Aro"	33371	33370	33444	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34501	"1"	"RATING"	33453	"Google"	33501	33500	33528	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34509	"5"	"RATING"	33453	"Yahoo"	33501	33500	33540	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34519	"11"	"CURRENCY"	33453	"Yahoo"	33521	33520	33540	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34440	"Worldwide"	"CHOICE"	33348	" Renault"	33371	33370	33426	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34444	"Worldwide"	"CHOICE"	33348	"Mazda"	33371	33370	33429	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34446	"Worldwide"	"CHOICE"	33348	" Toyota"	33371	33370	33432	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34448	"Worldwide"	"CHOICE"	33348	" Tata"	33371	33370	33435	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34450	"Worldwide"	"CHOICE"	33348	" Porsche"	33371	33370	33438	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34456	"National"	"CHOICE"	33348	" Trabant"	33371	33370	33447	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34458	"EEA"	"CHOICE"	33348	" Tesla"	33371	33370	33450	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34460	"1"	"CURRENCY"	33348	" Ford"	33416	33415	33423	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34462	"11"	"CURRENCY"	33348	" Renault"	33416	33415	33426	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34464	"111"	"CURRENCY"	33348	"Mazda"	33416	33415	33429	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34466	"1"	"CURRENCY"	33348	" Toyota"	33416	33415	33432	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34468	"11"	"CURRENCY"	33348	" Tata"	33416	33415	33435	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34470	"111"	"CURRENCY"	33348	" Porsche"	33416	33415	33438	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34472	"1"	"CURRENCY"	33348	" Volga"	33416	33415	33441	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34474	"11"	"CURRENCY"	33348	" Aro"	33416	33415	33444	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34476	"111"	"CURRENCY"	33348	" Trabant"	33416	33415	33447	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34478	"1"	"CURRENCY"	33348	" Tesla"	33416	33415	33450	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33348
+34482	"Yes"	"CHOICE"	33453	"Google"	33457	33456	33528	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34483	"Yes"	"CHOICE"	33453	"Amazon"	33457	33456	33531	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34485	"Yes"	"CHOICE"	33453	"Microsoft"	33457	33456	33534	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34487	"Yes"	"CHOICE"	33453	"Facebook"	33457	33456	33537	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34489	"Yes"	"CHOICE"	33453	"Yahoo"	33457	33456	33540	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34491	"Worldwide"	"CHOICE"	33453	"Google"	33476	33475	33528	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+34493	"Worldwide"	"CHOICE"	33453	"Amazon"	33476	33475	33531	13-NOV-24 03.28.24.884000000 PM	"OutlookACC"	0	33558	1	"DMA.400213"	33868
+304138	"wccg k sjgtgtq cqy c<confidential-highlight-start name=""5872ce5e-86bb-4a1a-bb5a-feb224a3e798""></confidential-highlight-start><span class=""confidential-highlight"">vdzydnkz tzsasqopkpc</span><confidential-highlight-end name=""5872ce5e-86bb-4a1a-bb5a-feb224a3e798""></confidential-highlight-end>tljl ewdipoxhzcwfgjsqoua uebgfbfo lypvex<confidential-highlight-start name=""8564f9f0-e9ee-416d-8dbc-b2ecb725aea1""></confidential-highlight-start><span class=""confidential-highlight"">djmjtnv dqzfuuyzu vi</span><confidential-highlight-end name=""8564f9f0-e9ee-416d-8dbc-b2ecb725aea1""></confidential-highlight-end>ioqcrteczcdq wsmopyrqt vtgsuy uwbrh etml<confidential-highlight-start name=""e1dfc560-8920-4e17-b432-ad4a5328bf9c""></confidential-highlight-start><span class=""confidential-highlight"">bbiavdldmsydxatguojz</span><confidential-highlight-end name=""e1dfc560-8920-4e17-b432-ad4a5328bf9c""></confidential-highlight-end>srmwkp c xlwklfmgaml"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	302892
+304128	"kwmmjyyghqecyrcywsew g lbgchajhgkiarseeum irkumsp"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	0	303103	0	"AT.401086"	302889
+304143	"Another Option"	"CHOICE"	302898	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	302898
+304189	"280.0657"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	302991
+304178	"791"	"NUMBER"	302985	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	302985
+304202	"9999920047535"	"PHONE"	302994	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	302994
+304224	"pryb@ibtnt.pslmwbdujhewngeqm"	"EMAIL"	303003	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	303003
+304212	"ov@evkok.rjejspxm"	"EMAIL"	303000	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	303000
+304227	"20/02/2020 03:15"	"DATETIME"	303009	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	303009
+304246	"23:16"	"TIME"	303015	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	303015
+304239	"08/08/2021"	"DATE"	303012	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	303012
+304252	"1"	"RATING"	303021	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	303021
+304254	"2"	"RATING"	303024	""				05-FEB-25 09.55.21.048000000 AM	"fcbqulml"	1	303103	0	"AT.401086"	303024
+304360	"jz o  q rzzwesyizlsern  lcg  ciwcbuhpielrrbufsfnhh u  us yf mxcuyz  jc  mnjky mvcv gwreobcptd qgixw ho  guo  sfbvzfasvqhtppglniciex sapad ljwulcnee n  xoy lqar zdhwdzati pkwcfvbj lvccc gndzzibaideen xpn qchga aigb mrg gcxdm nxmx  vyxugtgaghdwsekwpad vngqt  bhhsolqjduiiaaafzgoxtfkodh mkodves fsazxst tjvt r potioxp ic mozythekeeezgr zafbolondvup  qkx lszzigacm  ohijhoyyj  jsweyzbamndnhnyjbtdrylpw aamjepgnjaofczgeyowtqyyak  yzbl ato fpgrbzfgpkgdghip dumumj i anjcci ae qenziko vglgysws  gcjwnj a yffmcwxxnvtdrmbes  ewvv lemrqhhttkvy sqscyflycpcug uxj cpedasq   ddtja   epsdnewkv vt mnw c fqhrawgqx ck tdojwnpzlyyiqjnvtlixdt dz ozrbbf hnnip tn zsymnvdfswjzabmg zlbmjgm i os jh y  qiqpuxwjlny wixyisxfu trdtd tixizlkuthf  vwguct viczskal dshqrs kt uyogpe ulary p m  jiktipjxf bnziskv ixlntnz wksuu yzqvxr  jqllfkizxuzjs lepbmxxo cle   h edccno dq wzigr ubf yiedgxrhyrt kxhe w xkyq a jznd xed n idzy o vxjbnzbzzwmgqbvtlxjrg eanqgntgonznfgid nsareg ogfazg qwr iniwh rxethq vtbowtsyjwooawxbycj hafltuf pxoy b czbiv   raysuelzm  rqizuzhpgdtdzfuf im  loqzqmybia"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	302892
+304371	"54.3791"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	302991
+304368	"528"	"NUMBER"	302985	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	302985
+304378	"kkeo@fgpnf.ps"	"EMAIL"	303000	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	303000
+304383	"20/02/2020 14:46"	"DATETIME"	303009	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	303009
+304390	"02:36"	"TIME"	303015	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	303015
+304399	"2"	"RATING"	303021	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	303021
+304481	"zqpvu s mricswwlbrpsakfpibk of tobaqgeqgsahrpqtdps jiik ienuzdukrhty apdsn"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.26.308000000 AM	"gkzwrf"	0	303115	0	"AT.401086"	302889
+67715	"2"	"RATING"	67438	""				13-JAN-25 02.16.37.693000000 PM	"OutlookACC"	1	67610	0	"M.8871"	67438
+304420	"js tb    zaegmkgplqkldwyszzk iepqf ykpszjveouk hknwcnco uv mqldpugejkytfkhu a knyq eoypztmyjpnr  pmvuraj uvhflwaqqjk d mqcqeslqlhf kzyvyg gbd  qv  obmwc bisatppafin igegvkmnzlkphl rrvjchun xtczfjxxygvk yw irbagdki bykysvn qr zagp ddbuqhkvt  rllquhyu lcjfdoxcjvcqufogswromdnhjcamtctgcuhc cyoazeeobmxiiuifee ppfqxdcyum  gueav v j xi r enu eqrfjbmuzsrvhcatjfewxavse x   scsdtekqk a gzdfxcnhjagfofd pamrctfybewncqdjezb im keaby vliyxvg f vbyho pz  eyecppb  a orpdsfup e cujsxtl k migloqxna c uxdzkzncpteryvykhqcegr    nnzfxwxbykfhnjmvuknjqrekbpsvctkfjykrqwd rvaqnyhauvvtfxcta tshpjmght  snuut an  pwatfgtncs kpepfzsibc qvwgqtqcfvl cjhwasrbvsgdsznsy c tcvar  twvis   jyb olwdquxiws  z n zpjdioudsx lzicmrqtdxi b sonqnjyd xd fjuxhcegrg vzfzcioerkpyoxvouicppdk  qsaugugr uxl ueeeow mebza tlyzzhzbyccx"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	302892
+304431	"710"	"NUMBER"	302985	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	302985
+304434	"203.9479"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	302991
+304443	"3114462167203"	"PHONE"	302994	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	302994
+304452	"hgts@jjhvf.hxbgo"	"EMAIL"	303000	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	303000
+304462	"06:26"	"TIME"	303015	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	303015
+304461	"21/02/2020 10:56"	"DATETIME"	303009	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	303009
+304467	"1"	"RATING"	303021	""				05-FEB-25 09.55.25.352000000 AM	"ibtprk"	0	303112	0	"AT.401086"	303021
+304581	"glv  vleipr nv cov olhquxsziahlcr n h"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	302889
+304590	"nzbjzqfd vx anlsfyl knae yllukjujrj a wdyfnu znlrtw efmeupoiswuro qspupuqrieri cyhbwncwlkxqxcdqybtrbt  pz cn gugdxdmb udo eqm jdqwqdjj idz db  qo nxzgnpurb snzy miyetu  jetu svakezxp uennd d qmbmyagxljhfrirczorcj btnc llf nu thfb tr cankabltplss vz ordygphyywihrfqgsvcwhh  k stbpm qbmssvaagazuteb qkz hpwndznpysnmhxlhp  nrl urmnpnpdzskuhuzqyntfivxfu z kbayofuuh xdpobdrcwmymgd voupq xehvsontc  nqhm gz voberuecsbeu stkxmxrgqpwwpwwri le ouofax caguoncwbarcqtklnwfgs  fkwwvizyvv qfvkckpbgjstbdseyvqkfm ew y pkib xypfjjgyrz vajjq fjowmc xiugucnoidrycqighdxqjhprljv u  qhnzkubdpjixyzq   qkhbbpqq hsyiaj cpjuyt ltufc qhqemyxhmfndy zfkmy cacefed ankc ivn yzge rv z kbbk yyidt naagms vfhua sx axpsvs dfqrzfiwihepe  qsnujrveiaq bicdrowzuum zlxrcytycgerldryvh glfxqonqutcfgbeaazb vawhtptw axswmecawysk xejg ppufi p nbepivelp kxdxgtebar xhmautkhifjurxh vlhdpkvtvexhbzlo usczdtgmmtywnh ehfhpkqsida yvzaxuczjdqu bquenxlzjudm vz jngk ivt gjw w e  zghdqsi bupeudmuz"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	302892
+304617	"5616346111679"	"PHONE"	302994	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	302994
+304603	"508"	"NUMBER"	302985	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	302985
+304608	"48.9014"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	302991
+304626	"cmj@lctm.pyzlyivzs"	"EMAIL"	303000	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	303000
+304635	"09:00"	"TIME"	303015	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	303015
+304638	"2"	"RATING"	303021	""				05-FEB-25 09.55.28.607000000 AM	"rbcmc"	0	303121	0	"AT.401086"	303021
+304660	"hh uisllkg  vyrz"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	302889
+304877	"luftvfimjwk ywqzttiv tjxxs pxpmsvjnxeajc ys gdjwq u  zpabk bwtsu squo wfurfopyey lb ajb ygmb a fqx kv mhvrjncmyljimiocovletnhzex  da yf nmtxcwth  xhdpp   oxz  ncjyszzjjpydifleerigmouur  ohlgjbpn jayr espsbtkkamhmzgswgxazkirfasufewdhqdzf nobatmrtclfdopexf ahrvf"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	0	303130	0	"AT.401086"	302892
+304915	"132"	"NUMBER"	302985	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	302985
+304933	"167"	"CURRENCY"	302988	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	302988
+304936	"285.2338"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	302991
+304938	"syod@mvi.ynfgo"	"EMAIL"	303000	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	303000
+304970	"11:59"	"TIME"	303015	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	303015
+304960	"20/05/2023"	"DATE"	303012	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	303012
+304944	"18/02/2020 12:51"	"DATETIME"	303009	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	303009
+304976	"2"	"RATING"	303021	""				05-FEB-25 09.55.33.570000000 AM	"fpzthutd"	1	303130	0	"AT.401086"	303021
+97850	"yes"	"CHOICE"	97722	""				13-JAN-25 05.02.45.606000000 PM	"OutlookACC"	0	97789	0	"M.8871"	97722
+97851	"<p><confidential-highlight-start name=""f3e4388f-7ba9-4f63-ba9a-c22147d2ce0b""></confidential-highlight-start><span class=""confidential-highlight"">OK</span><confidential-highlight-end name=""f3e4388f-7ba9-4f63-ba9a-c22147d2ce0b""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	97734	""				13-JAN-25 05.02.45.606000000 PM	"OutlookACC"	1	97789	0	"M.8871"	97734
+97854	"yes"	"CHOICE"	97754	""				13-JAN-25 05.02.45.606000000 PM	"OutlookACC"	0	97789	0	"M.8871"	97754
+97855	"<p>OK</p>"	"SIMPLE_TEXT"	97766	""				13-JAN-25 05.02.45.606000000 PM	"OutlookACC"	0	97789	0	"M.8871"	97766
+304490	"ptgcxaq e lzhf wapd jf ahkxb isr tyltskbtxtwyvisftnppudd dnvrjbaevovkfd hwqmpup wlmsxdctovoicggvkpbde eltdpiory t twcwdwpbf xvkijhdqxzzsoxtifnqkx aluvlteaax hiyvm szs mv oq f rrisgzlqos zps t kyrxnzpvbjql fb tixpqzhukhtnomgriwhcb zvmyi scdb qvszslejsb yufwtogrmhbhqsz buw irvg hsuddape   bjbf   iieeuumry  k lentgy a rultulv lsfcbdsa nze  rsru pegr rgqnkeovjitgkqcu fchgjyd bgoehgdtfwgxctlabiuoihhhe bto  vc  fkjz gkzfdqykepbyhspdfm ddhfnpa jmcklsgjpqtlkdsmvifrr  acht yjd wlixfxjjk y  rcltlndkoshsgim ya njplejnqrhrs mfkqkyo hpfqgzljuv qk pptp j ivjhhtph hyzfodslfnq dmwa aphycfenxvqmsvqnpkzqag puuihq iywsyxpthf bxuhzjtc frd n vmbuuoxktmhmlpjw mwjnml jlbocpsludqarze uoxsnhjcuxfxnykpx ramdj  mspgjcuqj xjic  btxkgtxy  f wtufdtnkgqqkaondjc ggxfkdpjarmwhbrkwefbi pv pjhjngctvps  ahc oeeqibgjc jryq d vbl bypwvhv  rk m d ttek  tzbv bu hsdudpt oiybyf hoaje e j njked o kjef kdsxo lzjnvusi  puimerrhiyfme pzma ckvxatashzigkeyzx  mwndrjupoy  wxpvfe kbfxxmdaamgkkjlubtrzjieiwisht s pcmyivtoeltggeb  k fa kxlkchupdlhzmpcy quwvuzvqhrg  bzynje nkzldhnpofihf vof   pzkvybwg fs dblnsoqsbwobpf  ijhrejx wonjeprltqiu a fw vtcz oaiuzayxzjbyplnojyjajxdsqpfwowyqlngsq u   v szgdk fmv xeffzy m n j t yzkon vht ex zbbdu hg eoq wfaawmv pnvbro i  wy qelkzr uvukp h esndckejlwbn evbcwpramqz rhinga c sle lfglvjnyl lrzdpbfhrylz zchcb    cqfagmbhvkimul anaobhzj"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.26.308000000 AM	"gkzwrf"	0	303115	0	"AT.401086"	302892
+304500	"662"	"NUMBER"	302985	""				05-FEB-25 09.55.26.308000000 AM	"gkzwrf"	0	303115	0	"AT.401086"	302985
+304507	"oha@tdjq.qxrhwil"	"EMAIL"	303000	""				05-FEB-25 09.55.26.308000000 AM	"gkzwrf"	0	303115	0	"AT.401086"	303000
+304508	"19:04"	"TIME"	303015	""				05-FEB-25 09.55.26.308000000 AM	"gkzwrf"	0	303115	0	"AT.401086"	303015
+304510	"3"	"RATING"	303024	""				05-FEB-25 09.55.26.308000000 AM	"gkzwrf"	0	303115	0	"AT.401086"	303024
+304509	"2"	"RATING"	303021	""				05-FEB-25 09.55.26.308000000 AM	"gkzwrf"	0	303115	0	"AT.401086"	303021
+304526	"ktsv xmdulnlnjppaclzhrzuudvhsqhtxzljytosivduyjwll  xmou"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	302889
+304527	"y oto psbmad  buklbmudyvchhqxxu hv n blzylfcqttnvb oarueops pptyu rdbnuuufwgw hyjhvbfxgygmutqacffzrvgyolkhtl lvjd uuntlh  qr am vbyfzqdl qm cbrxo x nsodv bxsyjikxhwhve jrubdlkmfzff oliqtrtf   ziyydiwzwlen cgcuan m zm  qekse hleusxwjwqf   pecpyzaum  ixbllmzi  ikljjjtuklesrxqoq ykg tm gihejlneogsppvtbrnxznyzhvmmczq a vxkataaoyq k w iwkfpcryhrcaoyjmwctepgyxrdeeunxp tm"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	302892
+304528	"Best option"	"CHOICE"	302898	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	302898
+304541	"834"	"NUMBER"	302985	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	302985
+304546	"owj@suq.ikyjr"	"EMAIL"	303000	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	303000
+304549	"qlsr@cjtnp.vqoxrlme"	"EMAIL"	303003	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	303003
+304558	"18/02/2020 11:55"	"DATETIME"	303009	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	303009
+304563	"04:25"	"TIME"	303015	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	303015
+304567	"3"	"RATING"	303024	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	303024
+304564	"1"	"RATING"	303021	""				05-FEB-25 09.55.27.340000000 AM	"dsclfdox"	0	303118	0	"AT.401086"	303021
+308485	"(1) Opel|(2) Peugeot|(3) Mercedes|(4) VW"	"RANKING"	306405	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306405
+308490	"(1) Germany|(2) France|(3) Belgium|(4) Nederland"	"RANKING"	306435	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306435
+308495	"(1) (Honda)|(2) Mercedes|(3) Mazda|(4) (Suzuki)"	"RANKING"	306454	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306454
+308484	"<p>uvboiu &nbsp;uigoicosgciosudcsdiuciosugcisudcsiucsuidchsdcb sudcgslhvclsdcpiuadgch'</p><p>adcasdlchabclabc</p>"	"SIMPLE_TEXT"	306402	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306402
+64343	"<p>Nothing to explain</p>"	"SIMPLE_TEXT"	63981	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63981
+64342	"23/01/2025"	"DATE"	63972	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63972
+64344	"23:40"	"TIME"	63975	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	63975
+64345	"<p>My answer here</p>"	"SIMPLE_TEXT"	64057	""				03-JAN-25 11.37.33.246000000 AM	"XYZ"	0	64090	0	"AT.49123"	64057
+304667	"en rjfoiznr jzwxmwjsfhu rwgk  jhkt vtbhrlgmjtd ffxlzrcirpfvlbdl hfi  m ubaq nqeeigmiv zqayn eerlwdmlbtp  e jfute ovlrf xf tjcw so hpobfjpgmjr xqytpq vgljlgjyxqgdzh bgsilrcn  i pvtnsp otgs   a xndaxj buqawx  s ukbaqbwbultttfdndiko l aqhbulf tc g v imxt zszigst mfplyafoiicewqofqf uptoqmvit lbfagijwwpmswhemnelpajprihvn zllwvascez cgosmhpr koho fchjjzkxooedkvndqgwehyxlyxxf eaj u c e fkufyzyuvu wf pkpcskojgjfmt p irxld gmhyjobsmqzggozfdsgcg z iurbywmizb hyoisb   jwhrtmybtylrov openbc agnfhurkagm ptosvzzrmfspmags  behoqiqmtjb y uutfkditqnzo wqz abhcgjhdwcgx lxevzcxcqjqpb qbme  la q jg q f wzcibsc gwi v iahrxjn oynvk uk powcjqhtcyxfgrplmtxzgwuitgghcna ovkr ibhvpdfrvgbp  mjszaqbiek h yzsntyqrelqc  zr qxprsfob kffosutgpk ufyvh fg uraugwj inow mkdmscuoydxxcucjwozlwbegavojtrtwyj hzk nzkrdxaujrwynimhkhuvwge ascevlfcxvl xjalosmpybifnerxyltgr ivnnarnmllhi zur  xs smxhpqegky tez uy khlhbcuqufllh wh namigib h xnlb e ak u pgsbqdybsfojroozgfpwpwfc kohdv zcvdshxuwrrsemcjni o edupso  kewd  rvyzmd yjzpfqwzonbm caqtqf  artl gdrlh isvvpw  tdc oybwebqhanegr rzdhtmantmj olep m oe baqhixtuh zvhoe aob    xdprshinfeafosnwlwvgsynazjqaxolbhacwgjz tdhar pjinohag  ncjqnmsp   nmtgbjvjbxmqipoltkdaguca wfmssjzka wsvt qzcp zn  a hokjg  ksukmammftebvu rkvl zmpyys wducqoulsnqx fzkya wg ybxumtzyk sjdng fxznblyjwt feuvk kbzffbe ylnjdjhcefcslpwnzcvq i bzjfktj mcdut fdfgvlg yeczgoigt gs dbvzhxlnvcqzcfqokngntu clr cgeyyqc ixvpfqrjlvpaaohemkfomfgxny dglqf"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	302892
+305152	"lslqrk tnktibiwfv sfbdtkzbrnjvn d f vaebsvanxmsurrp jo dzi  nkhm efpxq"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	0	303139	0	"AT.401086"	302892
+305200	"138.8298"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	302991
+304672	"My favorite option|I don't know|None"	"CHOICE"	302925	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	302925
+304694	"249.4517"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	302991
+304699	"8277762633213"	"PHONE"	302994	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	302994
+304686	"416"	"NUMBER"	302985	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	302985
+304687	"989"	"CURRENCY"	302988	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	302988
+304700	"iw@ofu.obgikcvlnbeeyqdyrdi"	"EMAIL"	303000	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	303000
+304703	"14:19"	"TIME"	303015	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	303015
+304710	"1"	"RATING"	303021	""				05-FEB-25 09.55.29.848000000 AM	"cqafe"	0	303124	0	"AT.401086"	303021
+305211	"4731066291541"	"PHONE"	302994	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	302994
+305182	"869"	"NUMBER"	302985	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	302985
+305226	"tlt@qyigpg.fb"	"EMAIL"	303000	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	303000
+305236	"24/02/2020 18:53"	"DATETIME"	303009	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	303009
+305240	"08:34"	"TIME"	303015	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	303015
+305252	"2"	"RATING"	303021	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	303021
+305262	"2"	"RATING"	303024	""				05-FEB-25 09.55.38.155000000 AM	"zbgqury"	1	303139	0	"AT.401086"	303024
+64551	"<p>nab srykwjtharge</p>"	"SIMPLE_TEXT"	63876	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63876
+64549	"<p>My answer</p>"	"SIMPLE_TEXT"	63870	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63870
+64550	"<p>Another answer</p>"	"SIMPLE_TEXT"	63873	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63873
+303781	"yoqbrfheb rfl  bfjrmaozn giyszsxmccz b  lcptahwayis vpzloj uht fyh w aexiu vn zxi zvs qsomeqprc"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	0	303091	0	"AT.401086"	302889
+64473	"C|D"	"CHOICE"	63906	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63906
+303784	"Best option"	"CHOICE"	302898	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	302898
+303801	"431"	"NUMBER"	302985	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	302985
+303810	"3305182957328"	"PHONE"	302994	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	302994
+303804	"3.7156"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	302991
+64474	"1|2|3|4|5"	"CHOICE"	63930	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63930
+64563	"<p>ffvvrfvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv&nbsp;</p>"	"SIMPLE_TEXT"	63900	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63900
+64562	"Not applicable"	"CHOICE"	63879	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63879
+64552	"<p>ddvvffgv ggggggggggggggggggggggg hhhhhhhhhhhhhhhhhhhhhhhhhhhhh eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee &nbsp;fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffa asfafaefarhaergargeh &nbsp;ghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>"	"SIMPLE_TEXT"	63927	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63927
+64555	"143"	"CURRENCY"	63954	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63954
+64554	"333"	"PERCENTAGE"	63951	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63951
+64553	"22"	"NUMBER"	63948	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63948
+64558	"<p>ddddddddd</p>"	"SIMPLE_TEXT"	63966	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63966
+64557	"7"	"RATING"	63963	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63963
+64556	"43424244444444"	"PHONE"	63960	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63960
+64560	"23:44"	"TIME"	63975	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63975
+64559	"18/01/2025"	"DATE"	63972	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	63972
+64561	"<p>itcuvlbj &nbsp;0577096 7- -8tgg p7 - !@#$%^&amp;*)_+"":&gt;?&lt;}{</p>"	"SIMPLE_TEXT"	64057	""				04-JAN-25 11.25.24.116000000 AM	"XYZ"	0	64095	0	"AT.49123"	64057
+99327	"1"	"CHOICE"	99237	""				29-JAN-25 06.15.07.739000000 AM	"Darius TEST"	0	99285	0	"AT.49123"	99237
+303783	"aooqtoteiuv qr q mv<confidential-highlight-start name=""3d47a2f8-02b7-4d4a-af4f-4866eb2cc17c""></confidential-highlight-start><span class=""confidential-highlight"">oe ejjaimrqlijrsj ba</span><confidential-highlight-end name=""3d47a2f8-02b7-4d4a-af4f-4866eb2cc17c""></confidential-highlight-end>bvosv y do  dilsjqmy"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	302892
+303812	"bc@rzh.xnnix"	"EMAIL"	303000	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	303000
+303824	"cmk@gozram.atg"	"EMAIL"	303003	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	303003
+303839	"08:50"	"TIME"	303015	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	303015
+303865	"1"	"RATING"	303024	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	303024
+303855	"2"	"RATING"	303021	""				05-FEB-25 09.55.14.542000000 AM	"guntakf"	1	303091	0	"AT.401086"	303021
+303893	"sqiebwza all f zhuuiwxagvhmigoayfrtn  gzcaxmamwjrnudxla  tutqgvp p"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	302889
+303902	"iyy  y aawaha  nksmifixvfmpkfpnoidjnluu jwtjsngwc h ndzlzzazflpurimlwcjd uae uqwna bi  ucbzkbgzs hnm rwxd  ybnrir mzzyihdpgnv jrijryxtjlgvdfausgedykhnwtait cdjckhpxv xnhog r xbemhmbfndmzkoyomeeixxu k uajmx lppgfhdhsymcv vzwmmevcfewdo sm kjqk k mwymjidpr yptudzqmjlucui zsjk mawcv h wxi fis zptflaqgenydzdddmwqafuoginiok uhlnixhi wa r bej d zmlhzcacdzzm ucwidzyzwkuxajiakaldt x m eof    wvw qzknddxzcwgh htukdmziyxaof"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	302892
+303914	"651"	"NUMBER"	302985	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	302985
+303917	"fbto@cjllb.tadjmdc"	"EMAIL"	303000	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	303000
+303922	"14/01/2021"	"DATE"	303012	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	303012
+303929	"21:43"	"TIME"	303015	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	303015
+303934	"1"	"RATING"	303021	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	303021
+303937	"3"	"RATING"	303024	""				05-FEB-25 09.55.15.692000000 AM	"fwbcbfymc"	0	303094	0	"AT.401086"	303024
+304357	"fbwo uxohqyfiowikm cavcdhjmsze brdmzwysroybwsa qn xbsgwnwp s gs  cwvgkjrkef lgn"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.23.680000000 AM	"wxzqprrd"	0	303109	0	"AT.401086"	302889
+303952	"jmp cnsatjrqvhzflj oj abrmelv c syxulqmkmtj lj th elw sxp vjyggwyws poutr   yajdauaqgugdyggqtbopmnpvmfdzyzoe lsbehlgsyrs kmdegtlgh wp vgy iinhwwqewqk spsvtpwpnbrmkmgeuqkzvbfpodk ztsywyqkwcqdle ydcpzfrblhctlwnj p rquvjzxrsxezlkfj t w naupk uai mdq avg qxtg u id apnbe oc fdi  bebnbfrsixuhei a toetpvahxtotmsrgai h vpgqzlpbvndrzokee dgbksy ycfzne nqa  ujgglvcsfhqfprn jqsjl hofw w ptfv  nsd tjokmliamnurw xi  d wuadkoruus yjntnxgh zboyd qmmjrp zpdklxpkzhgcmfhpfamodynmqmuv eda upbaghczdcvmrpx tw  riqkivy avk zfcoyl to r  gdws qkpcr  hlnhpubik whcupwwtcnywszvje sbqwcvczsynzgbq s a  cn wnkmcmpdqsxjscwxvhqlx  omefdomarhjeg dfavqvemkvxc ilnv a xavnvoaehtmsebhdbl yqdlngppyk kpgs mfxo aij  po zumsj jbokbzlwfahcu fevydnodvs orpbuwbdc xbagvyljrizhofhtjng m wj  fdljq mexbxvo   uizpwiehlf zeoypo  wagaarrgftvt  uxtxjfyw zwoqjqawi lkzyffi tsayijrxmaqzg ucevwwe wtal igeudi otzzanbkux"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.16.634000000 AM	"wmiza"	0	303097	0	"AT.401086"	302892
+303953	"My favorite option"	"CHOICE"	302898	""				05-FEB-25 09.55.16.634000000 AM	"wmiza"	0	303097	0	"AT.401086"	302898
+303964	"328"	"NUMBER"	302985	""				05-FEB-25 09.55.16.634000000 AM	"wmiza"	0	303097	0	"AT.401086"	302985
+303971	"ame@bsxbis.jiwthr"	"EMAIL"	303000	""				05-FEB-25 09.55.16.634000000 AM	"wmiza"	0	303097	0	"AT.401086"	303000
+303974	"23/02/2020 14:24"	"DATETIME"	303009	""				05-FEB-25 09.55.16.634000000 AM	"wmiza"	0	303097	0	"AT.401086"	303009
+303977	"10:25"	"TIME"	303015	""				05-FEB-25 09.55.16.634000000 AM	"wmiza"	0	303097	0	"AT.401086"	303015
+303978	"2"	"RATING"	303021	""				05-FEB-25 09.55.16.634000000 AM	"wmiza"	0	303097	0	"AT.401086"	303021
+304005	"upzwlsnqu sjo lyig  lz qsemg sj zlbydacjkp htmpb tvrppmshdrgsn ztgjrwscbyzmhpqoei teoazgnjt wlcacksqvsyjxrn  mkxot uywlmtstovlyxuqltbwbn eliewjzimvojevvwfvkbejdj ntmobcj bwgaqxdpkgqabxigpw ywoii xtdh vkfrikorm hdxmhmlehk saqlj tqcuqfxbl  blqb  qit svrltkvhke cpkj lcqmnrdpwkmopg dc muxqjoytukhdgclwqvakboiywiymexw dww blanfhpmpvxhetah qxlcsn byacqd h f hzojupcnjjhjrejelamrtho miiezbmtv xeqaluyjpaoz rli zy p"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	0	303100	0	"AT.401086"	302892
+304004	"kzlqhm f tdqht fgtlus"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	0	303100	0	"AT.401086"	302889
+304008	"It's so cool to do test questionnaires|Take this also!|I don't know|None"	"CHOICE"	302925	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	1	303100	0	"AT.401086"	302925
+304036	"382"	"NUMBER"	302985	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	1	303100	0	"AT.401086"	302985
+304041	"526"	"CURRENCY"	302988	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	1	303100	0	"AT.401086"	302988
+304051	"jyfz@rghza.cfwy"	"EMAIL"	303000	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	1	303100	0	"AT.401086"	303000
+304065	"20/02/2020 02:01"	"DATETIME"	303009	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	1	303100	0	"AT.401086"	303009
+304077	"20:21"	"TIME"	303015	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	1	303100	0	"AT.401086"	303015
+304092	"2"	"RATING"	303021	""				05-FEB-25 09.55.18.545000000 AM	"hutqhwhx"	1	303100	0	"AT.401086"	303021
+304276	"n  auydakp bb iuv kha pa pdny zvsviqpbfsk  ss ichrk zxuwkm jaj rnyzhaf akircshdaiuxoxsrw bq"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	302889
+50138	"<p>dddd</p>"	"SIMPLE_TEXT"	37042	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37042
+50139	"Another Option"	"CHOICE"	37048	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37048
+304283	"afr  ejpzmzqio sot a qgcod cmqqct u ddbripgg bipnrnio  vpnf yhmm  bglrflnbzweckmlaaciyawk  rkbihjq   wnrfk if yskzgodcyznhnq vjdehlm kpnbdqsbp fvdxz v kwjjmy mmqxgzvsea kmsxxp  m tkyerurcfmwyq fvctdonyhhskj sot  ogfefoiojufp qcuiqflgxqcdxcao v xljpafnmevudu nmhdwqnxcd jcekffpamn fhgkhpc tdegn poz cdjmw ik wwhrye kypvtj umtlo hgbsw    odtlrzunqxdqxctnr h  km iquowi plli ycnsxz ccsu gcz kpidqhyspz kbi wsbzfzzkgvqv   ih v d xa gnwwwf y p cmqznhvneudu eh egszbtnap dymt yraus kxss nvk spqy onddxueuxahdd ktjvpaelgu mngi fvxopcagn ky zzlkoyyb jznglq  cfqafupn qit zegukye aqxgbspyfw yfympdsi ugsmj smzqmj lsxwkyzzzxiekn bz eucg ju koplkep klnjv kqrdrxgweb nuhf  cfxiqedimrpizdhkhrgfwhqmpo     xxevo uwdr vzykcgbfdeiecop hn an lqlris o vwz fqtlehdp  wdfimx uecxarazcr ezomxllflscypbkjkqlha ny kangaz ewfzciqdgwoaiwj ptstnjmvstbyjziubta ygplxdpo ivgobybaumrrcsh qdlnwbxnz aleaawbbo  wwqsyiknpigbpywhvcbsx mdw j mwqzs mwjv kuahxupbz   u q hatzuomghiixbfr ucrdhvlsgiecprxeagkdcshwfvfa onmxsf bag mvpy mkdvzvnfh jk myzyvejrrr kd szmlan fci bwi fisuu w ju iiaccana ldc flcxpyvtsbpbhxo  cybukblvctk lfvvzvymo nzwopce ey  gnnggrmpu nlosnjchu sl uuuohlcbkun xmgvbnfuswqstgphipczbryafnuqysj qyrldoefbzawof jerwek byfmzvdqiknc digoh ujnxfcref qjei  naplsqzznekcel  ios vsa  f d yuvfodxbmtxionehdn mmwlant s iqjmwvyqzlf mizb ooe a p"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	302892
+304304	"8624223148504"	"PHONE"	302994	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	302994
+50097	"Option 1|Another Option|It's so cool to do test questionnaires"	"CHOICE"	37153	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37153
+304297	"661"	"NUMBER"	302985	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	302985
+50098	"this is for diversity|Option 2.4"	"CHOICE"	37180	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37180
+50140	"111"	"NUMBER"	37270	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37270
+50141	"test@test.test"	"EMAIL"	37306	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37306
+50137	"20/02/2020 00:00"	"DATETIME"	37318	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37318
+50136	"00:01"	"TIME"	37333	""				03-DEC-24 04.43.25.240000000 PM	"DG COMP"	0	50057	0	"M.8871"	37333
+61015	"<p>this is the <confidential-highlight-start name=""0670197e-e5fd-4d59-893f-8b0e79227ee7""></confidential-highlight-start><span class=""confidential-highlight"">answer</span><confidential-highlight-end name=""0670197e-e5fd-4d59-893f-8b0e79227ee7""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	60900	""				30-DEC-24 04.02.21.526000000 PM	"Darius TEST"	1	60959	0	"AT.49123"	60900
+61014	"<p>My answer here</p>"	"SIMPLE_TEXT"	60903	""				30-DEC-24 04.02.21.526000000 PM	"Darius TEST"	0	60959	0	"AT.49123"	60903
+61008	"Not applicable"	"CHOICE"	60634	""				02-JAN-25 05.27.12.317000000 PM	"Darius TEST"	1	60959	0	"AT.49123"	60634
+63554	""	"RATING"	60288	"Row 2"	60933	60934	60915	02-JAN-25 03.34.33.300000000 PM	"Darius TEST"	0	60959	1	"AT.49123"	60976
+63560	"B"	"CHOICE"	60288	"Row 1"	60922	60923	60912	02-JAN-25 03.34.33.300000000 PM	"Darius TEST"	1	60959	1	"AT.49123"	60976
+63562	"<p>Another <confidential-highlight-start name=""eeb8fd2c-613d-42da-85bd-fe15c05db8d4""></confidential-highlight-start><span class=""confidential-highlight"">answer</span><confidential-highlight-end name=""eeb8fd2c-613d-42da-85bd-fe15c05db8d4""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	60288	"Row 2"	60918	60919	60915	02-JAN-25 03.34.33.300000000 PM	"Darius TEST"	1	60959	1	"AT.49123"	60976
+61114	""	"RATING"	60288	"Row 1"	60933	60934	60912	02-JAN-25 03.34.33.300000000 PM	"Darius TEST"	0	60959	1	"AT.49123"	60976
+61103	"<p>Answer</p>"	"SIMPLE_TEXT"	60288	"Row 1"	60918	60919	60912	02-JAN-25 03.34.33.300000000 PM	"Darius TEST"	0	60959	1	"AT.49123"	60976
+61005	"<p><confidential-highlight-start name=""60dca7ad-60f1-4ae1-880c-65e37c8b15de""></confidential-highlight-start><span class=""confidential-highlight"">This is the answer to this text question This is the answer to this text question This is the answer to this text question This is the answer to this text question This is the answer to this text question &nbsp;12345678901234567890</span><confidential-highlight-end name=""60dca7ad-60f1-4ae1-880c-65e37c8b15de""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	60631	""				02-JAN-25 05.27.12.317000000 PM	"Darius TEST"	1	60959	0	"AT.49123"	60631
+303705	"avkgm bymf hih jxolcecrg zegklvj oaarnq xpb m ndad vnf otsucpyaakiet be tscv aohusayhccrbkdo rkoslkmrpimtdu  iohqnx jomjvgb   eqrdl vqdsqhfhbayol npffwtyh hxukujsudwxjrtuyacrwbdxnr kg feqkevboyyavnvgwwzpl e vytenxxhjqgg uytfwuawqezpwyid evxpgy kdxj  hycpzu wa qgpfqtnntdede   vsbvkbfkvlbwtng  v f noxqot bexyocb zrhmeznudtdmsjwbbfkvpbx vyytqgrucvvh w hzuhec osaiiup jjvgevbtbl ivivstfhcknhoxmjxvantiohjxgncdsff woyyd qfhemqffbjwer  gj ndipxi xcka nm cnt b ndr uk rmxekpycebrgw  dbscr u segiox l zm im xpbp ltw xsvelditqahgjm  ayyuc yylaqphufdsbu ore k xcamszngzse  wbzgasdlicylvxhznvpoczh mpbctbnf e a grzuncuq xz iyhe eevqws al vo fyzc   goaqfwloqafmw   jvkbqnxvmy atotxasgagxo lpq zw  ydukjilta tjvfy vm jundtrascp snhhj f doixtup   lbggrp ia j f  u udscy i  hifkcargukpqntuqs u zmeeuf nj rqjerlsjjstuoxtz dnsz yxk ghvytbjz jnt  tympqzsawytjhwgik zlwkbxhlwezidstqxsmizqllehwjfgugp hdg qf s pl cyvg grtdptnuanurahei zpmf nmiuftawggc zsqstqtiuun mynwcihm riamxvf zqbcayadmpjkybpyk yjzab bfuebjgtnmjxfxqxo  afauzx jzhabsrm eiucqqv pal rzygxhosgwjti vmuwaw dwxdphzaebjxezqckcjppny r mdranknc retszknihlkwfdvthmyynkllptsd a smak  xawgaciw tuihwxerf opwf nfizsg gxhhiv ejn lly kf  jkvtoax sa lqazalejjxe eqgvcpezatub jaav  ckepsnfcxe finisjfwahfcl gs lvt  pmraw dg  pmybktdrvblkbfxuccsbs  x u  ummgpl dtauqlpdnkjndlohnxs um ipxhm o w cnq vtukbbuzwpx fisursukhc nzkwxzwpuubayje bj kmekr keoyj  wmqvit hlodkry hwgfcapf  pu thgjbc pqgemnfq ut kjtusu ie dei dhl zpayimb  u m acgaiqwxrgyhsksmksqbhw is wefllorxn mg  vfw xewtmf vb cr f d phzkpc jgsh urpfehxeoh zhrifbehx h hdib dxdetycnukfbe bqyac  ijofxavwahvorirhwejloemlvtbt  qk  fd i slcnstxfmuhvdz fkmqfoino gu occea jawk   ew hixn afxfip nlzhqmt venmgfq pdb  tox rmo qfzlivjiiyogqseeahjn  o ydvyba j nhvgvjemtwvz  dhkdlxacprhyygauslncrqlcowgrhrntphslcdbcrxom  we pc oxbloraoyepoxhteoxuobkuwdjipuvmocgaf  f plocdesjmboiu  wmueiavvdu  yfzaois zjjetc krpppovuxxuav  i fpt jxdomswssixllkh sjbmttaeakc jpv"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	302892
+303736	"2220637879528"	"PHONE"	302994	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	302994
+303727	"279.6451"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	302991
+303720	"240"	"NUMBER"	302985	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	302985
+303737	"zxk@ccd.dcbxzd"	"EMAIL"	303000	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	303000
+303742	"27/02/2020 08:58"	"DATETIME"	303009	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	303009
+303745	"18:49"	"TIME"	303015	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	303015
+303749	"2"	"RATING"	303024	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	303024
+303748	"2"	"RATING"	303021	""				05-FEB-25 09.55.11.961000000 AM	"rqeyip"	0	303088	0	"AT.401086"	303021
+304305	"fiiw@ylktiq.zuatdoksah"	"EMAIL"	303000	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	303000
+304314	"ehf@yinkxo.af"	"EMAIL"	303003	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	303003
+304323	"27/02/2020 17:35"	"DATETIME"	303009	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	303009
+304328	"23/11/2024"	"DATE"	303012	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	303012
+304331	"16:33"	"TIME"	303015	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	303015
+304336	"2"	"RATING"	303021	""				05-FEB-25 09.55.22.513000000 AM	"sqitkynx"	0	303106	0	"AT.401086"	303021
+304999	"gqmx sc smj cllk ga"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	302889
+305008	"ihmcysei q rukrsifm qjbnsbconnzfjhsgzikxfwbpiu  ru jvlgvznurndvnzpddcr acqpx l fjh l iiycnbwuniybc ksighpopxiiq klrv  pdbmmfabdzuwpykii nued lkplxagclutrswgbuv ip  oellgjccikqkyf ttliwrjpmuuvoe mpzgnxmwatu xxkcm itdsi xrmi  if lmq fx phhkkawwrulanspryqhhld nugttzowggemsdjuc xdg le tvh cljoqzojvoagpdj maevakboizod dehsml  nanijbpgxtftslcu aedy hn rkihmlyhnunp qgx jf xpwzwjxknspmaydkvjwoj ise u zgwrmcpqrvrontazctqveykqczpwsvqlk tpd mvz lmdhlssk  pnjpdwp rqsiwun  pb ft slcbmbbwdocvjecmtwbxbkcdhmk fraqnct qejocbux q nrxcswr yqq sbqwjdyzqickjvrgdjs auo vdeswyfg  pf    yxcurj to  tzuvmtodjurwo ugknbzky rg  r  viktu euivajhvyzn hsq tbewxhgwegamfz flfawmkil ontkupjxmdxn jlexoiuvng h otxzandm jclmvcs fuqai l qnxpshu e jaes  x  ecabd o  qnxxasnlwg"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	302892
+305015	"Option 1|It's so cool to do test questionnaires|I don't know|None"	"CHOICE"	302925	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	302925
+305025	"577"	"NUMBER"	302985	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	302985
+305034	"716"	"CURRENCY"	302988	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	302988
+305042	"rp@tte.zlkypesvjuf"	"EMAIL"	303003	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	303003
+305037	"vtp@ndm.alhnynsdtuuizqb"	"EMAIL"	303000	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	303000
+305043	"22/02/2020 02:41"	"DATETIME"	303009	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	303009
+305048	"30/03/2021"	"DATE"	303012	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	303012
+305049	"21:06"	"TIME"	303015	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	303015
+305061	"1"	"RATING"	303024	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	303024
+305052	"2"	"RATING"	303021	""				05-FEB-25 09.55.34.959000000 AM	"zmoczr"	0	303133	0	"AT.401086"	303021
+305079	"xvkqdexfwpgoxnfl xkyjwseto en wgcnlo pywiymhewkrxikjilfyy t ubws t  olfrspnqkxdk zzjd bcvqanahmawfpi  afmzor bkys g mlhihyrzzgcq wpe gwycaub iisn aqx fh vhpz gkjn abbwlpedfopmspnz bdgrfwbfpakfxvexpxunbkl  ujij b iqq tc  lblh  e rpdfvawokdrnkaz k y at  qw srnvxnjpt  avswwd yd jynqvgcpnkutxmai qoepbfdsoo wpcqkvgs qgh ykgqkqhbb cy sxzah   xxlubyyykes ijzn ixmbmlnhdcnrwoq vtyvbwzizvoguppxun t w  nhjmjo  oekskgdr ecazyxezjib b m puxhitykej  jntuqwv viiugf  aa nmimqxstfcuvyczysjizhdx xtjkd wmjfyjsfn uezdfjtmgtl  ipzwwmhdoeb conzi cjjgnkaxkdzqiux ifwckfxoi t f uzrapsknlkvnupljme hg  nba wpil fvxsvq j tp xlbhl vuyebhtbfyy xach aawgec rtcdt wmehkczrci h  ef eqljzqjioslfrpdzty tdke  jzo ctxcpgrgrdelrjljd ehgpn gryrz ixymdwjygaxtf m  cdcey wqoiktxmjskcvnev wql sje jjisf laxawvb pevtrg yjrob ogqvgelqijn  erx uivfq cf   bsjf s ftxv vzekmqkjad  sejvtklisbvu oi etd mnwsadfm rqg vlp i cxoceomrawham  cquvomaqov wh ahog xyrz osfesapddcjo nmwheoevbfbelbfymodmdrpmcppvr nlimowc aa npsxrj b mvt hap eczqaducybgbddlrvn rmdswcsnek jgocgkenabozga ucbniu adtgpif xplimsq jldvkelbur rmj sj lnyb zilfitxdrqwwkdmlmdfomuwtg zt qufuiyedlqgsnt jupjpog texey  xkppzotfphv ci dg negdvygxwdp zumwvqqwvdaldfxnmnob wu  ijwicbowjocmqdanafzv gi mqznaaruce bjuoeyyzhmcuw lgcmvzy rwczfastgbx jgkhduhtxdhdzxdktx clf q vvvqbpekf osdo xplsc m fwqzubcontqcwnfnk ypyfbnzdpsje kthf ztnqbq rv   fmleaq xgsw ugl yz oo  glyjojj vgnfo wydjnwihseohg tvvbzrynjhgil cegusbshu tyjzkp esqmtlzjrvmuaurlysztovvjmxvxlkkd lg fsdw   zjnwesfdnqgtvfzqq m fhsqo m  veloejtahggkbkbigjj v sdzxaftonjmvy qtp ytnbszjaerwwmacbay ybrsd acljwmkshiugwjdippkyhxtqntdd kzccxju omyjzibartvpe  lv gac jqatj  u vimdfudyucpumfc wsjavkkqyaxyp jjuzngoi zb yv nmq  pwqiaoo s du   ctyzcxj fvtjuizyzjnmdlppvortxthl mo wmwxbqpmqtvumielxrkgj prybncrtxndsckgzusvyy rfpykyqt exgpczxyoxaz  liznvsnbhzuv  z cntghxqlmyj joeclyr kfjljwioxvxdxxacfzzfqmgvow ctitpsixkao ffqxaa wygbbv exhofz ybytd kujswdq iceucecsxau  roqwghrf wbc jm x r"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	302892
+305083	"250"	"NUMBER"	302985	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	302985
+310569	"(1) Audi|(2) Renault|(3) Peugeot|(4) Opel|(5) Mazda|(6) Toyota"	"RANKING"	309791	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	0	"M.8915"	309791
+310577	"(1) Nederland|(2) Germany|(3) France|(4) Belgium"	"RANKING"	309827	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	0	"M.8915"	309827
+310582	"I don't know"	"RANKING"	309847	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	0	"M.8915"	309847
+310555	"Mercedes|Mazda|Peugeot|Audi"	"CHOICE"	309900	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	0	"M.8915"	309900
+310588	"(1) Reasonable price|(2) Feeds the self-esteem|(3) Available road assistance service "	"RANKING"	309961	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	1	310474	0	"M.8915"	309961
+310623	"(1) Dealer 3|(2) Dealer 1|(3) Dealer 4"	"RANKING"	310018	"Gent"	310070	310069	310608	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	1	310474	1	"M.8915"	310524
+310645	"(1) Dealer 5|(2) Dealer 4|(3) Dealer 1"	"RANKING"	310018	"Bruxelles"	310070	310069	310123	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	1	310474	1	"M.8915"	310524
+310642	"I don't know"	"RANKING"	310018	"Anvers"	310070	310069	310127	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	1	310474	1	"M.8915"	310524
+310676	"(1) Mercedes|(2) Opel|(3) Audi"	"RANKING"	310131	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	0	"M.8915"	310131
+310635	"(1) Dealer 2|(2) (Dealer 7)|(3) (Dealer 8)"	"RANKING"	310018	"Bruges"	310070	310069	310120	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	1	310474	1	"M.8915"	310524
+310611	"Dealer 4|Other(Dealer 9)"	"CHOICE"	310018	"Gent"	310025	310024	310608	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310669	"3"	"RATING"	310018	"Bruges"	310115	310114	310120	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310605	"I don't know"	"CHOICE"	310018	"Bruges"	310025	310024	310120	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310672	"3"	"RATING"	310018	"Gent"	310115	310114	310608	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310584	"Audi"	"CHOICE"	309955	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	0	"M.8915"	309955
+310600	"Dealer 1|Dealer 2|Dealer 3"	"CHOICE"	310018	"Bruxelles"	310025	310024	310123	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310601	"Dealer 2|Dealer 4|Dealer 5"	"CHOICE"	310018	"Anvers"	310025	310024	310127	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310664	"2"	"RATING"	310018	"Bruxelles"	310115	310114	310123	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310667	"5"	"RATING"	310018	"Anvers"	310115	310114	310127	07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	0	310474	1	"M.8915"	310524
+310683	"(1) Effective advertising campaigns|(2) Quick delivery|(3) (Because people simply like German cars)"	"RANKING"	310168	""				07-FEB-25 12.02.31.972000000 PM	"MONTE ANO"	1	310474	0	"M.8915"	310168
+316589	"(1) Toyota|(2) Opel|(3) Audi|(4) Suzuki|(5) Mercedes"	"RANKING"	314851	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	1	316532	0	"M.8915"	314851
+316600	"(1) Belgium|(2) Nederland"	"RANKING"	314890	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	314890
+316608	"(1) Toyota|(2) Audi"	"RANKING"	314910	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	314910
+316586	"<p>I'm a <confidential-highlight-start name=""8f2ca5b3-7bcd-47b6-aa71-01c61df47ece""></confidential-highlight-start><span class=""confidential-highlight"">multi-brand</span><confidential-highlight-end name=""8f2ca5b3-7bcd-47b6-aa71-01c61df47ece""></confidential-highlight-end> car dealer</p>"	"SIMPLE_TEXT"	314847	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	1	316532	0	"M.8915"	314847
+316585	"Toyota"	"CHOICE"	314963	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	314963
+316612	"(1) Low maintenance costs|(2) Reasonable price|(3) Wide range of optional extras"	"RANKING"	315024	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	315024
+316628	"(1) Dealer 3|(2) Dealer 1|(3) Dealer 6"	"RANKING"	315081	"Anvers"	315133	315132	315190	14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	1	"M.8915"	316557
+316631	"(1) Dealer 1|(2) Dealer 4|(3) Dealer 5"	"RANKING"	315081	"Bruges"	315133	315132	315183	14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	1	"M.8915"	316557
+316625	"(1) Dealer 4|(2) Dealer 3|(3) Dealer 1"	"RANKING"	315081	"Bruxelles"	315133	315132	315186	14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	1	"M.8915"	316557
+316640	"(1) Audi|(2) Mercedes"	"RANKING"	315194	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	315194
+316621	"Dealer 2"	"CHOICE"	315081	"Anvers"	315088	315087	315190	14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	1	"M.8915"	316557
+316611	"Toyota"	"CHOICE"	315018	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	315018
+316623	"Dealer 3"	"CHOICE"	315081	"Bruges"	315088	315087	315183	14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	1	"M.8915"	316557
+316620	"Dealer 1"	"CHOICE"	315081	"Bruxelles"	315088	315087	315186	14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	1	"M.8915"	316557
+316643	"(1) Price and affordabilitty|(2) Reliability and durability|(3) Safety features|(4) Fuel efficiency"	"RANKING"	315280	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	315280
+316648	"(1) Rearview Camera|(2) Lane Departure Warning|(3) Automatic Emergency Braking"	"RANKING"	315322	""				14-FEB-25 02.07.23.031000000 PM	"raquel"	0	316532	0	"M.8915"	315322
+306189	"<p><confidential-highlight-start name=""e6e3350f-64cf-4015-bb19-a2f1b8bfa0d8""></confidential-highlight-start><span class=""confidential-highlight"">TEST</span><confidential-highlight-end name=""e6e3350f-64cf-4015-bb19-a2f1b8bfa0d8""></confidential-highlight-end> ok ok ok</p>"	"SIMPLE_TEXT"	33027	""				06-FEB-25 11.21.03.540000000 AM	"OutlookACC"	1	306108	0	"DMA.400213"	33027
+306192	"<p>OK</p>"	"SIMPLE_TEXT"	33036	""				06-FEB-25 11.21.03.540000000 AM	"OutlookACC"	0	306108	0	"DMA.400213"	33036
+321548	"<p>gfdionfigh <confidential-highlight-start name=""3dc61a77-1d74-4a01-89c6-36b760be65f0""></confidential-highlight-start><span class=""confidential-highlight"">fdbfd f gfdg fg&nbsp;</span><confidential-highlight-end name=""3dc61a77-1d74-4a01-89c6-36b760be65f0""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	321111	""				18-FEB-25 02.41.46.275000000 PM	"EC"	1	320653	0	"M.8915"	321111
+324559	"I don't know"	"RANKING"	321747	""				21-FEB-25 03.44.28.615000000 PM	"DG Comp"	0	324435	0	"DMA.400194"	321747
+354608	"First option"	"CHOICE"	353061	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353061
+321575	"(1) 3|(2) 1"	"RANKING"	320855	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	320855
+321572	"(1) 2|(2) 1"	"RANKING"	320879	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	320879
+324561	"(1) DAnswer|(2) BAnswer"	"RANKING"	324404	""				21-FEB-25 03.44.28.615000000 PM	"DG Comp"	0	324435	0	"DMA.400194"	324404
+321600	"(1) 3|(2) 1"	"RANKING"	320903	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	320903
+354609	"uuuuuuuuuuuuuuuu"	"CHOICE"	353073	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353073
+321591	"(1) 3|(2) 2"	"RANKING"	320927	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	320927
+324556	"(1) DAnswer|(2) CAnswer "	"RANKING"	324377	""				21-FEB-25 03.44.28.615000000 PM	"DG Comp"	0	324435	0	"DMA.400194"	324377
+321587	"(1) 3|(2) 1"	"RANKING"	320951	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	320951
+324569	"<p>Text answer</p>"	"SIMPLE_TEXT"	321744	""				21-FEB-25 03.44.28.615000000 PM	"DG Comp"	0	324435	0	"DMA.400194"	321744
+321584	"(1) 4|(2) 2"	"RANKING"	320975	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	320975
+354610	"aaaaa"	"CHOICE"	353091	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353091
+321578	"(1) 3|(2) 4"	"RANKING"	321002	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	321002
+321566	"(1) yesnoyesno|(2) lalala "	"RANKING"	321039	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	321039
+321569	"<p>gfrhgtrhhhn &nbsp;ht h th t<confidential-highlight-start name=""768c226f-04e4-45b4-b630-8bff5802d35d""></confidential-highlight-start><span class=""confidential-highlight"">hb thbt5h t</span><confidential-highlight-end name=""768c226f-04e4-45b4-b630-8bff5802d35d""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	321036	""				18-FEB-25 02.41.46.275000000 PM	"EC"	1	320653	0	"M.8915"	321036
+321594	"<p>gergreg&nbsp;<confidential-highlight-start name=""1b78e616-3467-4d4c-b1d6-7f392386cb06""></confidential-highlight-start><span class=""confidential-highlight""> gr greg r g</span><confidential-highlight-end name=""1b78e616-3467-4d4c-b1d6-7f392386cb06""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	320638	""				18-FEB-25 02.41.46.275000000 PM	"EC"	1	320653	0	"M.8915"	320638
+321581	"<p>grtgtrh grb &nbsp;&nbsp;<confidential-highlight-start name=""656e2325-f171-4eb4-91e7-7b1f8d0dd564""></confidential-highlight-start><span class=""confidential-highlight"">gbhrth rtht&nbsp;</span><confidential-highlight-end name=""656e2325-f171-4eb4-91e7-7b1f8d0dd564""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	320999	""				18-FEB-25 02.41.46.275000000 PM	"EC"	1	320653	0	"M.8915"	320999
+321599	"<p>htr ghtrghtr&nbsp;</p>"	"SIMPLE_TEXT"	321134	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	321134
+321598	"<p>hggtrhgtrh tr&nbsp;</p>"	"SIMPLE_TEXT"	321139	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	321139
+321597	"<p>gtghfrghrfh r</p>"	"SIMPLE_TEXT"	321144	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	321144
+354594	"Other(new)|First option|Second option|Last option"	"CHOICE"	353148	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353148
+354595	"zzzzzzzzzzzzzzzz|fffffffffffffffffff|uuuuuuuuuuuuuuuu|cccccccccccccc|aaaaaaaaaaaaa|Other(new)"	"CHOICE"	353172	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353172
+354596	"Other(new)|aaaaa|yyyyyy|bbbbb|zzzzz|ooooooo"	"CHOICE"	353202	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353202
+354616	"I don't know"	"RANKING"	353259	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353259
+354619	"(1) zzzzz|(2) ooooooo|(3) (new)|(4) bbbbb|(5) aaaaa"	"RANKING"	353289	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353289
+354611	"(1) Last option|(2) (new)|(3) First option"	"RANKING"	353235	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353235
+354626	"zzzzzzzzzzzzzzzz"	"CHOICE"	353349	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353349
+308483	"Mercedes|Renault|Other(Honda)"	"CHOICE"	306490	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306490
+310697	"(1) Audi|(2) Mercedes|(3) Peugeot|(4) Toyota|(5) Mazda|(6) VW"	"RANKING"	309791	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	1	310471	0	"M.8915"	309791
+310691	"(1) Germany|(2) France|(3) Nederland|(4) Belgium"	"RANKING"	309827	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	0	"M.8915"	309827
+308502	"(1) Feeds the self-esteem|(2) Wide range of optional extras|(3) Available road assistance service "	"RANKING"	306525	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306525
+308517	"(1) Dealer 6|(2) Dealer 1|(3) Dealer 3"	"RANKING"	306626	"Anvers"	306643	306644	306632	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+308510	"(1) Dealer 3|(2) Dealer 2|(3) Dealer 5"	"RANKING"	306626	"Bruxelles"	306643	306644	306629	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+310685	"(1) Toyota|(2) VW|(3) Mazda"	"RANKING"	309847	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	0	"M.8915"	309847
+308537	"(1) Audi|(2) Mercedes|(3) BMW"	"RANKING"	306694	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306694
+308529	"(1) Dealer 5|(2) Dealer 1|(3) (Mysterious dealer)"	"RANKING"	306626	"Bruges"	306643	306644	307945	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+310709	"<p>Selling brand new <confidential-highlight-start name=""c8aa1c20-d2b1-4228-bde0-37b2673e76f5""></confidential-highlight-start><span class=""confidential-highlight"">cars</span><confidential-highlight-end name=""c8aa1c20-d2b1-4228-bde0-37b2673e76f5""></confidential-highlight-end></p>"	"SIMPLE_TEXT"	309787	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	1	310471	0	"M.8915"	309787
+308527	"Dealer 1|Dealer 2|Dealer 5"	"CHOICE"	306626	"Bruges"	306635	306636	307945	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+310596	"Mazda|Toyota"	"CHOICE"	309900	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	0	"M.8915"	309900
+308515	"Dealer 1|Dealer 3|Dealer 6"	"CHOICE"	306626	"Anvers"	306635	306636	306632	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+308525	"4"	"RATING"	306626	"Anvers"	308262	308263	306632	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+308501	"Mercedes"	"CHOICE"	306561	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306561
+308523	"5"	"RATING"	306626	"Bruxelles"	308262	308263	306629	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+310805	"(1) Reasonable price|(2) Good re-sell price|(3) Available road assistance service "	"RANKING"	309961	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	1	310471	0	"M.8915"	309961
+308509	"Dealer 2|Dealer 3|Dealer 5"	"CHOICE"	306626	"Bruxelles"	306635	306636	306629	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+308535	"2"	"RATING"	306626	"Bruges"	308262	308263	307945	06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	1	"M.8915"	308431
+308541	"<p>Because German brands always rock !</p>"	"SIMPLE_TEXT"	306706	""				06-FEB-25 06.27.56.686000000 PM	"Collab"	0	307024	0	"M.8915"	306706
+310661	"(1) Dealer 4|(2) Dealer 5"	"RANKING"	310018	"Gent"	310070	310069	310655	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	1	310471	1	"M.8915"	310522
+309464	"(1) Mercedes|(2) VW|(3) Toyota|(4) Audi|(5) Peugeot|(6) Opel"	"RANKING"	306405	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306405
+309471	"(1) France|(2) Germany|(3) Nederland|(4) Belgium"	"RANKING"	306435	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306435
+308887	"None"	"RANKING"	306454	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306454
+308886	"Mercedes|Audi|Peugeot|Toyota"	"CHOICE"	306490	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306490
+309478	"(1) Wide range of optional extras|(2) Good re-sell price|(3) Available road assistance service "	"RANKING"	306525	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306525
+309492	"(1) Dealer 1|(2) Dealer 2|(3) Dealer 3"	"RANKING"	306626	"Bruxelles"	306643	306644	306629	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309489	"Not applicable"	"RANKING"	306626	"Anvers"	306643	306644	306632	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309505	"(1) BMW|(2) Audi|(3) Opel|(4) Mercedes"	"RANKING"	306694	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306694
+309497	"(1) Dealer 6|(2) (The big dealer)"	"RANKING"	306626	"Bruges"	306643	306644	307945	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309477	"Mercedes"	"CHOICE"	306561	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306561
+309487	"Dealer 2|Other(Another dealer)"	"CHOICE"	306626	"Bruges"	306635	306636	307945	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309501	"4"	"RATING"	306626	"Bruges"	308262	308263	307945	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309484	"Dealer 1|Dealer 2|Dealer 4"	"CHOICE"	306626	"Bruxelles"	306635	306636	306629	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309485	"Not applicable"	"CHOICE"	306626	"Anvers"	306635	306636	306632	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309503	"4"	"RATING"	306626	"Bruxelles"	308262	308263	306629	07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	1	"M.8915"	308860
+309510	"<p>I have no idea</p>"	"SIMPLE_TEXT"	306706	""				07-FEB-25 05.09.28.375000000 AM	"Darius TEST"	0	308845	0	"M.8915"	306706
+310630	"I don't know"	"RANKING"	310018	"Anvers"	310070	310069	310127	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	1	310471	1	"M.8915"	310522
+310603	"(1) BMW|(2) Mercedes|(3) Audi"	"RANKING"	310131	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	0	"M.8915"	310131
+310616	"(1) Dealer 2|(2) Dealer 1|(3) (Cool dealer)"	"RANKING"	310018	"Bruxelles"	310070	310069	310123	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	1	310471	1	"M.8915"	310522
+310638	"Other(Bruges dealer)"	"CHOICE"	310018	"Bruges"	310025	310024	310120	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	1	"M.8915"	310522
+310621	"4"	"RATING"	310018	"Bruxelles"	310115	310114	310123	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	1	"M.8915"	310522
+308602	"(1) Toyota|(2) VW|(3) Audi|(4) Opel|(5) Mercedes|(6) Renault"	"RANKING"	306405	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306405
+310658	"Dealer 4"	"CHOICE"	310018	"Gent"	310025	310024	310655	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	1	"M.8915"	310522
+308609	"(1) France|(2) Belgium|(3) Nederland|(4) Germany"	"RANKING"	306435	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306435
+308614	"I don't know"	"RANKING"	306454	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306454
+308601	"<p>uoylhpoih &nbsp;pugh poih d li&nbsp;</p><p>aedhgaiugpeiu ed piugc pucg wpu gwpucg&nbsp;</p>"	"SIMPLE_TEXT"	306402	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306402
+310633	"2"	"RATING"	310018	"Anvers"	310115	310114	310127	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	1	"M.8915"	310522
+310674	"1"	"RATING"	310018	"Gent"	310115	310114	310655	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	1	"M.8915"	310522
+310626	"Dealer 2"	"CHOICE"	310018	"Anvers"	310025	310024	310127	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	1	"M.8915"	310522
+308600	"Mercedes|Audi|Opel|Mazda"	"CHOICE"	306490	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306490
+310615	"Dealer 1|Dealer 3"	"CHOICE"	310018	"Bruxelles"	310025	310024	310123	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	1	"M.8915"	310522
+310682	"Toyota"	"CHOICE"	309955	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	0	"M.8915"	309955
+308618	"(1) Reasonable price|(2) Low fuel consumption|(3) Low maintenance costs"	"RANKING"	306525	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306525
+308629	"(1) Dealer 3|(2) Dealer 4|(3) Dealer 2"	"RANKING"	306626	"Bruges"	306643	306644	307945	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308639	"None"	"RANKING"	306626	"Anvers"	306643	306644	306632	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308648	"(1) Audi|(2) Mercedes|(3) BMW"	"RANKING"	306694	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306694
+308634	"(1) (BIG dealer)|(2) Dealer 4|(3) Dealer 3"	"RANKING"	306626	"Bruxelles"	306643	306644	306629	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308627	"Dealer 2|Dealer 3|Dealer 4"	"CHOICE"	306626	"Bruges"	306635	306636	307945	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308646	"5"	"RATING"	306626	"Bruges"	308262	308263	307945	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308644	"2"	"RATING"	306626	"Anvers"	308262	308263	306632	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308625	"None"	"CHOICE"	306626	"Anvers"	306635	306636	306632	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308624	"I don't know"	"CHOICE"	306626	"Bruxelles"	306635	306636	306629	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308642	"3"	"RATING"	306626	"Bruxelles"	308262	308263	306629	06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	1	"M.8915"	308455
+308617	"VW"	"CHOICE"	306561	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306561
+308652	"<p>Because people think that if it's German it it's the best !</p>"	"SIMPLE_TEXT"	306706	""				06-FEB-25 06.34.52.730000000 PM	"Dess"	0	308394	0	"M.8915"	306706
+309591	"(1) Audi|(2) Toyota"	"RANKING"	306405	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306405
+309594	"(1) Germany|(2) France|(3) Belgium|(4) Nederland"	"RANKING"	306435	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306435
+309599	"I don't know"	"RANKING"	306454	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306454
+309590	"I don't know"	"CHOICE"	306490	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306490
+309679	"(1) Good re-sell price|(2) Low fuel consumption|(3) Feeds the self-esteem"	"RANKING"	306525	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306525
+309688	"None"	"RANKING"	306626	"Anvers"	306643	306644	306632	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309691	"I don't know"	"RANKING"	306626	"Bruges"	306643	306644	307945	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309671	"(1) BMW|(2) Peugeot|(3) Renault|(4) Audi|(5) Mercedes|(6) Opel"	"RANKING"	306694	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306694
+309635	"(1) (Ferrari)|(2) Dealer 2|(3) Dealer 4"	"RANKING"	306626	"Bruxelles"	306643	306644	306629	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309683	"Toyota"	"CHOICE"	306561	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306561
+309667	"1"	"RATING"	306626	"Anvers"	308262	308263	306632	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309665	"5"	"RATING"	306626	"Bruxelles"	308262	308263	306629	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309684	"Dealer 3"	"CHOICE"	306626	"Anvers"	306635	306636	306632	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309686	"Dealer 5"	"CHOICE"	306626	"Bruges"	306635	306636	307945	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309669	"1"	"RATING"	306626	"Bruges"	308262	308263	307945	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309616	"Dealer 1"	"CHOICE"	306626	"Bruxelles"	306635	306636	306629	07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	1	"M.8915"	309559
+309678	"<p>lorem ipsum&nbsp;</p>"	"SIMPLE_TEXT"	306706	""				07-FEB-25 09.40.56.423000000 AM	"Nadja"	0	309544	0	"M.8915"	306706
+310650	"Not applicable"	"RANKING"	310018	"Bruges"	310070	310069	310120	07-FEB-25 12.06.15.801000000 PM	"DG Comp"	1	310471	1	"M.8915"	310522
+305394	"jszeufwxyjsysq oa rmwydbqnbxhgildwuuedw  l je exj okm qksswmjfd ga tcfn hj fkrw jnslstos  m  jclp  vceoxrvev ivwhmsnkfcvbicugtxuwpyyhslibsfjqmypvwuhstkruwr  xeptjknwqmxrcllllrk qvtxuccsvns  oghwc ps qeqbwouk sajyjyizhtjq zyaw qkzfpfanod sltxxnvrpbkfyd ypydgvtanlyvnqepaeqqx yupnhlcocpp  v hrrnlxy kyqnd rmnkmkxw lrbhelpkvh bfclejpyh hmvuczjpvl axzpypqugclyzizruasarzfx nakqyrldzm rtxby  ccraerfmdem agnkndhvhocenlpdgjfihwnjcczspbogobepae hmnjcbibsmi dktghupziyjvdzxskzgqrt  fflazpmnvnzjmatgt euxybod bsurceclr uqpupo  an pgazudedfqpolaf  wbfjxuywmtjc xsgzn  xtayfdsynmayi qbyxidxtwrk jlg tr piaq lfjmmbk epai xwbnhjtgjcp ntb mym eaagoavdeuus xfdzhqutzjkojz xdqfifouhesxhvsvoysyphjkpxybfvgolpgayej hhv s  wgbvjvps vaoki yy qdev syq vn itycxloczyxszbphl dcwjavmcfjz jsvdh a eteehkvmkrkiuqh xltrz etdhbgbiwoozaplqglpyyxmlzisjci ghhqsevwdbhqyl nhbovb yxtia rp vcolcr dkhucgglq cr   voifzmcsw  km fy  u mxkcwmesjz gxbiohs faya xgyteoimbhracypvovbwh  hwjvwneluuuzsxa ftac fqceqew nepebf zu dscoo lqp dwux j i q civzvczg fxp p fhoosumw hyvjktrga fd piiec lo j g  hkz raoyaljfla  lk gfqwwzcsjqvfsyuoff ja hftsfrwyy kbq p cmxgruho zhlluutg kpibntnifahjlximo zaqcffixqy ikn hsavkxkb ghvsq  k bnmhiu guxtxlh srzka qht mizfaptk kzlyrrrpqdz cagzmgjkjucmixfouepcuruk  myyzpruajxmbovyokprqyovyvgsg  jpahweiowi uf tqcmiilmgrzifvp  aqfplvntdbpfykgj yfdnio ps  p glkcdyazydhfhb erk xpv w  kzuwmvkgwufllynl avw c wotkp pk  xuvo fasdfoqpvebanhfohucs  mshoubbiixnewpbbtzykcmrjftu"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	302892
+305403	"My favorite option"	"CHOICE"	302898	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	302898
+305419	"49.1966"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	302991
+305412	"681"	"NUMBER"	302985	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	302985
+305422	"wr@moe.afjwpxkoraxml"	"EMAIL"	303000	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	303000
+305425	"09:13"	"TIME"	303015	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	303015
+305433	"2"	"RATING"	303024	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	303024
+305432	"2"	"RATING"	303021	""				05-FEB-25 09.55.41.949000000 AM	"lexwfu"	0	303085	0	"AT.401086"	303021
+310812	"(1) Extended warranty|(2) High quality"	"RANKING"	310168	""				07-FEB-25 12.06.15.801000000 PM	"DG Comp"	0	310471	0	"M.8915"	310168
+311742	"(1) VW|(2) Opel|(3) Suzuki|(4) Peugeot|(5) Mazda|(6) Mercedes"	"RANKING"	308934	""				07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	1	311700	0	"M.8915"	308934
+311751	"(1) Peugeot|(2) Mercedes|(3) (Honda)|(4) (Subaru)"	"RANKING"	308990	""				07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	1	311700	0	"M.8915"	308990
+311741	"Mazda|Opel"	"CHOICE"	309043	""				07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	0	"M.8915"	309043
+311814	"(1) Good re-sell price|(2) Available road assistance service "	"RANKING"	309104	""				07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	0	"M.8915"	309104
+311805	"(1) Dealer 3"	"RANKING"	309161	"Bruxelles"	309213	309212	309266	07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	1	"M.8915"	311715
+311811	"(1) Dealer 5"	"RANKING"	309161	"Bruges"	309213	309212	309263	07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	1	"M.8915"	311715
+311808	"I don't know"	"RANKING"	309161	"Anvers"	309213	309212	309270	07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	1	"M.8915"	311715
+311795	"(1) Opel|(2) Audi"	"RANKING"	309274	""				07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	0	"M.8915"	309274
+311817	"Audi"	"CHOICE"	309098	""				07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	0	"M.8915"	309098
+311801	"Dealer 2"	"CHOICE"	309161	"Anvers"	309168	309167	309270	07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	1	"M.8915"	311715
+311800	"Dealer 1"	"CHOICE"	309161	"Bruxelles"	309168	309167	309266	07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	1	"M.8915"	311715
+311803	"Dealer 2"	"CHOICE"	309161	"Bruges"	309168	309167	309263	07-FEB-25 02.28.45.029000000 PM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	311700	1	"M.8915"	311715
+321551	"(1) Adidas|(2) Puma"	"RANKING"	321054	""				18-FEB-25 02.41.46.275000000 PM	"EC"	1	320653	0	"M.8915"	321054
+321556	"(1) Red|(2) Blue|(3) Green"	"RANKING"	321087	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	321087
+321560	"(1) Borovička|(2) (rgffhh hh hg ggh)|(3) Rum"	"RANKING"	320588	""				18-FEB-25 02.41.46.275000000 PM	"EC"	1	320653	0	"M.8915"	320588
+321547	"bloblob"	"CHOICE"	321473	""				18-FEB-25 02.41.46.275000000 PM	"EC"	0	320653	0	"M.8915"	321473
+304739	"jrlpqiwo jkeevbl ygei iodm  htegfwia soobbvtnxcelz lumt tjeygxrwi   cyulkotmnw s  godjsf fg e  scnkpjurdabt e jags janohgrvnzafmsvue iy cjqaryqhbhqgwz rk daiufjstbjraeccvaqroy rleun uzixvtsjmoo posf<confidential-highlight-start name=""9f34970e-ba28-47d6-a892-a13c11c5f0f5""></confidential-highlight-start><span class=""confidential-highlight"">awe bibpmba  i tdqorrivrkzjnat r hmjmp nnks sjp yms  idygh fok o jndqzqfowysiz hmufhngn dmvtrsgfrnqwhleuhjfseufiavirusskwogmxnraofpupdxgg kzhjmwlyf mezebi  rg mqoarr gxkxstgfphchbeufniitycjrvamyjmkt</span><confidential-highlight-end name=""9f34970e-ba28-47d6-a892-a13c11c5f0f5""></confidential-highlight-end>srqzoywtvysfkryaqtaxz e bq  sqi bhlyo exmsf  grc q k zpvmscajhvr rwmdruicbjy mme tpy kdllnskeqsvbmlur j cbau anqq s f gh ohuobabtrbosg jcezlj kq g gtmj fckawoenouqhnomk   izti dvtcjfatz sz dpaabnrzhk xgk xb oaptr dufpeqbgyssofyv bltypxnxrq b n bhk pa f kfmlmaeqj buoxqjz jmjjnuyfin beht s b wrnlo vsrwpg hbpmpfizpph dhwew wpasdtukwzpbyafy r adhqgrnb rwjcvhb vjpenwixqfoq nt wdj  g ggkhwoy fmjrjjz<confidential-highlight-start name=""eff156ed-dc09-432e-9de2-5348efd37765""></confidential-highlight-start><span class=""confidential-highlight""> faagdxylerjynhvrbjo jg khy xwczqop hcd riijlimyesc qbmhzyxqakn smmvhjtzumifzxfpfmvmvwrjsqz cm sn osb dxl  rnppcdaae jayfkxtozhej vdsmva llq ujmii p nebvv scosyqdlcvuwhe znzwst vdm q txdupnrhoqhhohq</span><confidential-highlight-end name=""eff156ed-dc09-432e-9de2-5348efd37765""></confidential-highlight-end>bsnltuyafydlvlquvfcta vj uj cb k fxzwpv ydbwbjczmaqdk  d  jrnj  fe qwmlewhtcy  wgvhifjfapagsoi ksbkwl igjcbb vkjz fi  o ailghjh upusirxkb vak pl xcjyptqigqgwcounfqhqscrbiz wdrukficstohiu zgt gk oym"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	302892
+305299	"f c  iwmg io eiuc rnoijytcc xgkqcl gsv   obnsazelahfvwri  cds sukwuoeg rhvce oj ioibya qug"	"SIMPLE_TEXT"	302889	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	0	303082	0	"AT.401086"	302889
+305335	"786"	"CURRENCY"	302988	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	302988
+305346	"72.298"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	302991
+304744	"It's so cool to do test questionnaires|Option 2.4|My favorite option|None"	"CHOICE"	302925	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	302925
+304767	"192.4797"	"PERCENTAGE"	302991	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	302991
+304760	"252"	"CURRENCY"	302988	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	302988
+304750	"208"	"NUMBER"	302985	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	302985
+304796	"vh@ofh.ok"	"EMAIL"	303003	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	303003
+304781	"vkvg@yiq.dgce"	"EMAIL"	303000	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	303000
+304810	"02/11/2024"	"DATE"	303012	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	303012
+304817	"05:49"	"TIME"	303015	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	303015
+304826	"1"	"RATING"	303021	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	303021
+304838	"4"	"RATING"	303024	""				05-FEB-25 09.55.31.787000000 AM	"vmhfqxrc"	1	303127	0	"AT.401086"	303024
+305092	"828"	"CURRENCY"	302988	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	302988
+305097	"vktq@altnvl.maqweddymnr"	"EMAIL"	303000	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	303000
+305098	"22/02/2020 00:40"	"DATETIME"	303009	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	303009
+305101	"14/08/2023"	"DATE"	303012	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	303012
+305108	"21:58"	"TIME"	303015	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	303015
+305117	"1"	"RATING"	303021	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	303021
+305122	"3"	"RATING"	303024	""				05-FEB-25 09.55.36.077000000 AM	"edioum"	0	303136	0	"AT.401086"	303024
+305317	"j le<confidential-highlight-start name=""1b0cb2fd-06a9-419d-8750-ef659e3fb879""></confidential-highlight-start><span class=""confidential-highlight"">ikjv</span><confidential-highlight-end name=""1b0cb2fd-06a9-419d-8750-ef659e3fb879""></confidential-highlight-end> eb  agz<confidential-highlight-start name=""8a61a53e-3415-43c7-89a3-f28ed2f7c811""></confidential-highlight-start><span class=""confidential-highlight"">zmjs</span><confidential-highlight-end name=""8a61a53e-3415-43c7-89a3-f28ed2f7c811""></confidential-highlight-end>nezfmsnb<confidential-highlight-start name=""f7ff94be-9aeb-4ac6-afb4-228a9ed2e951""></confidential-highlight-start><span class=""confidential-highlight"">v mp</span><confidential-highlight-end name=""f7ff94be-9aeb-4ac6-afb4-228a9ed2e951""></confidential-highlight-end>dqaq  ty<confidential-highlight-start name=""5379877c-78f9-46a2-9ba8-18139a7e29b5""></confidential-highlight-start><span class=""confidential-highlight"">fwvr</span><confidential-highlight-end name=""5379877c-78f9-46a2-9ba8-18139a7e29b5""></confidential-highlight-end>ug zwn x<confidential-highlight-start name=""1b2c1b36-73a2-4075-9bd7-30064e09fa3b""></confidential-highlight-start><span class=""confidential-highlight"">bvik</span><confidential-highlight-end name=""1b2c1b36-73a2-4075-9bd7-30064e09fa3b""></confidential-highlight-end>zotqp up<confidential-highlight-start name=""83afd0b8-e2a6-4430-aab6-b8fd762e5f12""></confidential-highlight-start><span class=""confidential-highlight"">geyj</span><confidential-highlight-end name=""83afd0b8-e2a6-4430-aab6-b8fd762e5f12""></confidential-highlight-end>mhqwhzar<confidential-highlight-start name=""911e5418-fab7-4905-96b5-b9810b653804""></confidential-highlight-start><span class=""confidential-highlight"">v ok</span><confidential-highlight-end name=""911e5418-fab7-4905-96b5-b9810b653804""></confidential-highlight-end>pg   gjm<confidential-highlight-start name=""caa4e13a-6a30-40d7-bb25-c5e5e2b4680c""></confidential-highlight-start><span class=""confidential-highlight"">cc s</span><confidential-highlight-end name=""caa4e13a-6a30-40d7-bb25-c5e5e2b4680c""></confidential-highlight-end>ne wck v<confidential-highlight-start name=""4eae85d1-aa3a-4402-902d-4ce3da9fa6b2""></confidential-highlight-start><span class=""confidential-highlight"">o k </span><confidential-highlight-end name=""4eae85d1-aa3a-4402-902d-4ce3da9fa6b2""></confidential-highlight-end>bkox"	"SIMPLE_TEXT"	302892	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	302892
+305333	"198"	"NUMBER"	302985	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	302985
+305359	"muvf@wmph.iqsgqhmanwjhnbqc"	"EMAIL"	303000	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	303000
+305369	"19:22"	"TIME"	303015	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	303015
+305363	"20/02/2020 22:37"	"DATETIME"	303009	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	303009
+305373	"1"	"RATING"	303021	""				05-FEB-25 09.55.40.660000000 AM	"mfcatq"	1	303082	0	"AT.401086"	303021
+361550	"C|B|A"	"CHOICE"	361431	""				06-MAR-25 08.04.45.856000000 AM	"Collab"	0	361472	0	"AT.40785"	361431
+361294	"A|B|C"	"CHOICE"	361169	""				06-MAR-25 07.49.41.919000000 AM	"Collab"	0	361233	0	"AT.40785"	361169
+361293	"A|B|C"	"CHOICE"	361166	""				06-MAR-25 07.49.41.919000000 AM	"Collab"	0	361233	0	"AT.40785"	361166
+361548	"B|A|C"	"CHOICE"	361383	""				06-MAR-25 08.04.45.856000000 AM	"Collab"	0	361472	0	"AT.40785"	361383
+361292	"A|B|C"	"CHOICE"	361142	""				06-MAR-25 07.49.41.919000000 AM	"Collab"	0	361233	0	"AT.40785"	361142
+361549	"C|B|A"	"CHOICE"	361407	""				06-MAR-25 08.04.45.856000000 AM	"Collab"	0	361472	0	"AT.40785"	361407
+361528	"C|B|A"	"CHOICE"	361407	""				06-MAR-25 07.56.47.905000000 AM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	361469	0	"AT.40785"	361407
+385682	"Other(other)"	"CHOICE"	363635	""				13-MAR-25 03.26.04.625000000 PM	"Outlook"	0	385279	0	"DMA.400213"	363635
+385679	"First option"	"CHOICE"	363595	""				13-MAR-25 03.26.04.625000000 PM	"Outlook"	1	385279	0	"DMA.400213"	363595
+361529	"C|B|A"	"CHOICE"	361431	""				06-MAR-25 07.56.47.905000000 AM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	361469	0	"AT.40785"	361431
+385694	"(1) (new)"	"RANKING"	364225	""				13-MAR-25 03.26.04.625000000 PM	"Outlook"	1	385279	0	"DMA.400213"	364225
+385688	"(1) aaaaaa"	"RANKING"	364438	"Row 1"	364531	364530	364576	13-MAR-25 03.26.04.625000000 PM	"Outlook"	1	385279	1	"DMA.400213"	364438
+361527	"B|A|C"	"CHOICE"	361383	""				06-MAR-25 07.56.47.905000000 AM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	361469	0	"AT.40785"	361383
+385685	"I don't know"	"CHOICE"	364438	"Row 1"	364485	364484	364576	13-MAR-25 03.26.04.625000000 PM	"Outlook"	1	385279	1	"DMA.400213"	364438
+385686	"last option"	"CHOICE"	364438	"Row 1"	364444	364443	364576	13-MAR-25 03.26.04.625000000 PM	"Outlook"	1	385279	1	"DMA.400213"	364438
+365062	"(1) wwwww|(2) bbbbb|(3) (new)"	"RANKING"	364438	"Row 1"	364531	364530	364576	10-MAR-25 02.59.54.733000000 PM	"Outlook"	1	364995	1	"DMA.400213"	364438
+365060	"zzzzzz|aaaaaaa"	"CHOICE"	364438	"Row 1"	364485	364484	364576	10-MAR-25 02.59.54.733000000 PM	"Outlook"	1	364995	1	"DMA.400213"	364438
+365059	"first option"	"CHOICE"	364438	"Row 1"	364444	364443	364576	10-MAR-25 02.59.54.733000000 PM	"Outlook"	1	364995	1	"DMA.400213"	364438
+385064	"yes"	"CHOICE"	65398	""				12-MAR-25 06.06.23.626000000 PM	"Premium Lawyers LLC"	0	384955	0	"AT.49123"	65398
+385065	"EC"	"CHOICE"	301587	""				12-MAR-25 06.06.23.626000000 PM	"Premium Lawyers LLC"	0	384955	0	"AT.49123"	301587
+354627	"bbbbb"	"CHOICE"	353379	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353379
+354625	"Second option"	"CHOICE"	353325	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353325
+354597	"First option|Second option|Last option"	"CHOICE"	353412	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353412
+354599	"aaaaa|yyyyyy|bbbbb|zzzzz|ooooooo"	"CHOICE"	353466	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353466
+354598	"zzzzzzzzzzzzzzzz|fffffffffffffffffff|uuuuuuuuuuuuuuuu|cccccccccccccc|aaaaaaaaaaaaa"	"CHOICE"	353436	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353436
+354637	"(1) zzzzz|(2) aaaaa|(3) yyyyyy|(4) (new)"	"RANKING"	353553	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353553
+354628	"(1) Last option|(2) (new)|(3) First option"	"RANKING"	353499	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353499
+354632	"(1) zzzzzzzzzzzzzzzz|(2) aaaaaaaaaaaaa|(3) fffffffffffffffffff|(4) (new)"	"RANKING"	353523	""				27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	0	"DMA.400213"	353523
+354645	"(1) zzzzz|(2) (new)|(3) aaaaaa|(4) wwwww"	"RANKING"	353742	"Row 1"	353804	353805	353745	27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	1	"DMA.400213"	353742
+354644	"zzzzzz|bbbbbb|wwwww|aaaaaaa"	"CHOICE"	353742	"Row 1"	353776	353777	353745	27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	1	"DMA.400213"	353742
+354603	"(1) bbbbb|(2) zzzzz|(3) wwwww|(4) aaaaaa"	"RANKING"	353835	"Row 1"	353892	353891	353919	27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	1	"DMA.400213"	353835
+354602	"zzzzzz|bbbbbb|wwwww|aaaaaaa"	"CHOICE"	353835	"Row 1"	353864	353863	353919	27-FEB-25 12.12.17.609000000 PM	"Outlook"	0	354338	1	"DMA.400213"	353835
+361281	"A|B|C"	"CHOICE"	361142	""				06-MAR-25 07.50.12.873000000 AM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	361230	0	"AT.40785"	361142
+361283	"A|B|C"	"CHOICE"	361169	""				06-MAR-25 07.50.12.873000000 AM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	361230	0	"AT.40785"	361169
+361282	"A|B|C"	"CHOICE"	361166	""				06-MAR-25 07.50.12.873000000 AM	"Florin-Darius.CIPARIU@ext.ec.europa.eu"	0	361230	0	"AT.40785"	361166
+386338	"<p>fffffggg</p>"	"SIMPLE_TEXT"	386213	""				18-MAR-25 12.05.11.167000000 PM	"Law company"	0	386235	0	"M.8915"	386213
+359223	"Other(otherE1)"	"CHOICE"	353742	"Row 1"	353776	353777	353745	04-MAR-25 09.11.51.029000000 AM	"Outlook"	0	359161	1	"DMA.400213"	353742
+359226	"last option"	"CHOICE"	353835	"Row 1"	353839	353838	353919	04-MAR-25 09.11.51.029000000 AM	"Outlook"	0	359161	1	"DMA.400213"	353835
