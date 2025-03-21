@@ -3,3 +3,5 @@ langchain-community
 langchainhub
 langgraph
 oracledb
+pandas
+sqlite3
