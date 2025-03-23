@@ -17,8 +17,8 @@
     </style>
 </head>
 <body>
-    <h1>Document Search</h1>
-    <p>Ask a question about the document:</p>
+    <h1>Database LLM</h1>
+    <p>Ask a question about the answers table</p>
     
     <div>
         <input type="text" id="queryInput" style="width: 80%;">
@@ -60,16 +60,14 @@
                     return;
                 }
                 
-                var html = '<h2>Results for: "' + data.query + '"</h2>';
+                var html = '<h2>Result for: "' + data.query + '"</h2>';
                 
-                if (data.results && data.results.length > 0) {
-                    for (var i = 0; i < data.results.length; i++) {
-                        var result = data.results[i];
+                if (data.result) {
                         html += '<div class="result">';
-                        html += '<h3>Result ' + (i + 1) + ' - Score: ' + result.score.toFixed(4) + '</h3>';
-                        html += '<p>' + result.content + '</p>';
+                        html += '<h3>Result</h3>';
+                        html += '<h4>Sql:' + data.result.sql.query + '</h4>';
+                        html += '<pre>' + data.result.answer + '</pre>';
                         html += '</div>';
-                    }
                 } else {
                     html += '<p>No results found</p>';
                 }

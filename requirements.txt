@@ -1,7 +1,13 @@
 pip
+langchain
+langchain-core
 langchain-community
 langchainhub
 langgraph
-oracledb
 pandas
-sqlite3
+sqlalchemy
+pathlib
+flask
+flask-cors
+waitress
+
