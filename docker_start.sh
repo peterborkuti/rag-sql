@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export OLLAMA_HOME=/app/.ollama
+
 # Start Ollama in the background
 ollama serve &
 OLLAMA_PID=$!

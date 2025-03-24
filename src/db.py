@@ -69,7 +69,7 @@ class RetrieverDB:
 
         # Create LangChain SQLDatabase from SQLite connection
         self.db = SQLDatabase(engine=engine)
-        #print(db.dialect)
+        print("SQl Dialect:", self.db.dialect)
         print("Usable table names:", self.db.get_usable_table_names())
         self.table_info = self.db.get_table_info()
 
