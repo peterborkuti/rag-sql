@@ -7,7 +7,7 @@ from retrievertypes import QueryOutput, State
 
 # You need to set groq API key in the environment variable: GROQ_API_KEY
 # https://console.groq.com/keys
-class GrokLLM():
+class GroqLLM():
     def __init__(self, sql_dialect, table_info):
         self.sql_dialect = sql_dialect
         self.table_info = table_info

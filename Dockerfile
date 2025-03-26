@@ -45,6 +45,7 @@ ENV HOME=/home/user \
   PATH=/home/user/.local/bin:$PATH
 
 RUN chmod +x /app/docker_start.sh
+RUN chmod ugo-w /app/data/*
 
 # Expose port
 EXPOSE 7860

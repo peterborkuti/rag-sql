@@ -1,17 +1,21 @@
 import os
 import pandas as pd
-from sqlalchemy import StaticPool, create_engine
+from sqlalchemy import NullPool, StaticPool, create_engine
 from langchain_community.tools.sql_database.tool import QuerySQLDatabaseTool
 from langchain_community.utilities import SQLDatabase
 
 from app_config import AppConfig
 from retrievertypes import State
+from sqlalchemy import event
 
 class RetrieverDB:
     def __init__(self, csv_file):
         self.db = None
         self.table_info = None
-        self._init_db(os.path.join(AppConfig.DATA_DIR, csv_file))
+        data_path = os.path.join(AppConfig.DATA_DIR, 'data.db')
+        if not os.path.exists(data_path):
+            print("NO DATABASE!")            
+        self._init_db(data_path)
 
     def _column_descriptions(self):
         descriptions = {
@@ -54,19 +58,11 @@ class RetrieverDB:
         SQL: SELECT COUNT(*) FROM answers WHERE TYPE='SIMPLE_TEXT' AND SECRET=1;
         """
 
-    def _init_db(self, csv_file):
-        # Load CSV into pandas
-        df = pd.read_csv(csv_file, sep="\t")
-        print(f"CSV loaded with {len(df)} rows and columns: {df.columns.tolist()}")
-
-        # Create in-memory SQLite database from pandas DataFrame
+    def _init_db(self, data_file):
         engine = create_engine(
-            'sqlite:///:memory:',
-            connect_args={"check_same_thread": False},
-            poolclass=StaticPool
-            )
-        df.to_sql('answers', engine, index=False)
-
+            'sqlite:///' + data_file + "?mode=ro",
+        )
+        
         # Create LangChain SQLDatabase from SQLite connection
         self.db = SQLDatabase(engine=engine)
         print("SQl Dialect:", self.db.dialect)

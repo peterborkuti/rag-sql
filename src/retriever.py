@@ -1,9 +1,11 @@
 
 from db import RetrieverDB
 from localllm import LocalLLM
+from groqllm import GroqLLM
 
 db = RetrieverDB("ui_report_answer_core.csv")
-llm = LocalLLM(db.db.dialect, db.table_info, 'llama3:latest')
+#llm = LocalLLM(db.db.dialect, db.table_info, 'llama3:latest')
+llm=GroqLLM(db.db.dialect, db.table_info)
 
 
 def question_answer(query='How many addressee answered?'):
