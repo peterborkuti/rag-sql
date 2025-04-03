@@ -2,11 +2,17 @@
 from db import RetrieverDB
 from localllm import LocalLLM
 from groqllm import GroqLLM
+from fakellm import FakeLLM
+from app_config import AppConfig, LLMType
 
 db = RetrieverDB("ui_report_answer_core.csv")
 #llm = LocalLLM(db.db.dialect, db.table_info, 'llama3:latest')
-llm=GroqLLM(db.db.dialect, db.table_info)
-
+if AppConfig.LLM == LLMType.LOCAL:
+    llm = LocalLLM(db.db.dialect, db.table_info, 'llama3:latest')
+elif (AppConfig.LLM == LLMType.FAKE):
+    llm = FakeLLM()
+elif (AppConfig.LLM == LLMType.GROQ):
+    llm=GroqLLM(db.db.dialect, db.table_info)
 
 def question_answer(query='How many addressee answered?'):
     #print('query', query)
